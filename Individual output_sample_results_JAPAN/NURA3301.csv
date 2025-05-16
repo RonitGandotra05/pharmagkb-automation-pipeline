@@ -1,0 +1,23 @@
+Sample,Gene Name,Genotype,Phenotype
+NURA3301,CYP2B6,*1/*1,Normal Metabolizer
+NURA3301,DPYD,Reference/Reference,Normal Metabolizer
+NURA3301,CYP3A4,*1/*1,Indeterminate
+NURA3301,NUDT15,*1/*1,Normal Metabolizer
+NURA3301,IFNL3,Reference/Reference,Favorable Response
+NURA3301,ABCG2,Reference/Reference,Normal Function
+NURA3301,CYP2C9,*1/*1,Normal Metabolizer
+NURA3301,CYP2C8,*1/*1,Indeterminate
+NURA3301,NAT2,*4/*4,Indeterminate
+NURA3301,VKORC1,Reference/Reference,Indeterminate
+NURA3301,G6PD,B/B,Indeterminate
+NURA3301,SLCO1B1,*1/*1,Normal Function
+NURA3301,CACNA1S,Reference/Reference,Uncertain Susceptibility
+NURA3301,CYP2D6,*2/*2,Normal Metabolizer
+NURA3301,CYP2C19,*1/*1,Normal Metabolizer
+NURA3301,UGT1A1,*1/*1,Normal Metabolizer
+NURA3301,F5,Reference/Reference,Favorable Response
+NURA3301,RYR1,Reference/Reference,Uncertain Susceptibility
+NURA3301,CFTR,Reference/Reference,Indeterminate
+NURA3301,TPMT,*1/*1,Normal Metabolizer
+NURA3301,CYP3A5,*1/*3,Intermediate Metabolizer
+NURA3301,CYP4F2,*1/*1,Indeterminate

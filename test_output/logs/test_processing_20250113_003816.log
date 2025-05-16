@@ -1,0 +1,373 @@
+2025-01-13 00:38:16,011 - INFO - Created output directory: test_output/processed_files
+2025-01-13 00:38:16,011 - INFO - Processing test sample: N1DL5740
+2025-01-13 00:38:16,011 - INFO - Starting to parse CPIC content...
+2025-01-13 00:38:16,011 - INFO - Found drug section: atazanavir
+2025-01-13 00:38:16,011 - INFO - Found CPIC recommendation line for atazanavir: CPIC recommended clinical action for atazanavir and UGT1A1 *1/*6.
+2025-01-13 00:38:16,011 - INFO - End of CPIC section for atazanavir
+2025-01-13 00:38:16,011 - INFO - Found drug section: atomoxetine
+2025-01-13 00:38:16,011 - INFO - Found CPIC recommendation line for atomoxetine: CPIC recommended clinical action for atomoxetine and CYP2D6 *2/*2.
+2025-01-13 00:38:16,011 - INFO - Added dosing_info recommendation for atomoxetine
+2025-01-13 00:38:16,011 - INFO - End of CPIC section for atomoxetine
+2025-01-13 00:38:16,011 - INFO - Found drug section: avatrombopag
+2025-01-13 00:38:16,011 - INFO - No CPIC guidance for avatrombopag
+2025-01-13 00:38:16,011 - INFO - Found drug section: brivaracetam
+2025-01-13 00:38:16,011 - INFO - No CPIC guidance for brivaracetam
+2025-01-13 00:38:16,011 - INFO - Found drug section: citalopram
+2025-01-13 00:38:16,012 - INFO - Found CPIC recommendation line for citalopram: CPIC recommended clinical action for citalopram and CYP2C19 *3/*17.
+2025-01-13 00:38:16,012 - INFO - Added dosing_info recommendation for citalopram
+2025-01-13 00:38:16,012 - INFO - End of CPIC section for citalopram
+2025-01-13 00:38:16,012 - INFO - Found drug section: clobazam
+2025-01-13 00:38:16,012 - INFO - No CPIC guidance for clobazam
+2025-01-13 00:38:16,012 - INFO - Found drug section: clopidogrel
+2025-01-13 00:38:16,012 - INFO - Found CPIC recommendation line for clopidogrel: CPIC recommended clinical action for clopidogrel and CYP2C19 *3/*17.
+2025-01-13 00:38:16,012 - INFO - Added alternate_drug recommendation for clopidogrel
+2025-01-13 00:38:16,012 - INFO - End of CPIC section for clopidogrel
+2025-01-13 00:38:16,012 - INFO - Found drug section: desflurane
+2025-01-13 00:38:16,012 - INFO - Found CPIC recommendation line for desflurane: CPIC recommended clinical action for desflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:38:16,012 - INFO - End of CPIC section for desflurane
+2025-01-13 00:38:16,012 - INFO - Found drug section: dexlansoprazole
+2025-01-13 00:38:16,012 - INFO - Found CPIC recommendation line for dexlansoprazole: CPIC recommended clinical action for dexlansoprazole and CYP2C19 *3/*17.
+2025-01-13 00:38:16,012 - INFO - Added dosing_info recommendation for dexlansoprazole
+2025-01-13 00:38:16,012 - INFO - End of CPIC section for dexlansoprazole
+2025-01-13 00:38:16,012 - INFO - Found drug section: doxepin
+2025-01-13 00:38:16,012 - INFO - Found CPIC recommendation line for doxepin: CPIC recommended clinical action for doxepin and CYP2C19 *3/*17 and CYP2D6 *2/*2.
+2025-01-13 00:38:16,012 - INFO - Found No Action for doxepin - skipping
+2025-01-13 00:38:16,012 - INFO - Found drug section: dronabinol
+2025-01-13 00:38:16,012 - INFO - No CPIC guidance for dronabinol
+2025-01-13 00:38:16,012 - INFO - Found drug section: efavirenz
+2025-01-13 00:38:16,012 - INFO - Found CPIC recommendation line for efavirenz: CPIC recommended clinical action for efavirenz and CYP2B6 *1/*9.
+2025-01-13 00:38:16,012 - INFO - Added dosing_info recommendation for efavirenz
+2025-01-13 00:38:16,012 - INFO - End of CPIC section for efavirenz
+2025-01-13 00:38:16,012 - INFO - Found drug section: eliglustat
+2025-01-13 00:38:16,012 - INFO - No CPIC guidance for eliglustat
+2025-01-13 00:38:16,012 - INFO - Found drug section: enflurane
+2025-01-13 00:38:16,012 - INFO - Found CPIC recommendation line for enflurane: CPIC recommended clinical action for enflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:38:16,012 - INFO - End of CPIC section for enflurane
+2025-01-13 00:38:16,012 - INFO - Found drug section: escitalopram
+2025-01-13 00:38:16,012 - INFO - Found CPIC recommendation line for escitalopram: CPIC recommended clinical action for escitalopram and CYP2C19 *3/*17.
+2025-01-13 00:38:16,012 - INFO - Added dosing_info recommendation for escitalopram
+2025-01-13 00:38:16,012 - INFO - End of CPIC section for escitalopram
+2025-01-13 00:38:16,012 - INFO - Found drug section: fluvastatin
+2025-01-13 00:38:16,013 - INFO - Found CPIC recommendation line for fluvastatin: CPIC recommended clinical action for fluvastatin and CYP2C9 *1/*29 and SLCO1B1 *1/*37.
+2025-01-13 00:38:16,013 - INFO - Added alternate_drug recommendation for fluvastatin
+2025-01-13 00:38:16,013 - INFO - End of CPIC section for fluvastatin
+2025-01-13 00:38:16,013 - INFO - Found drug section: fosphenytoin
+2025-01-13 00:38:16,013 - INFO - Found CPIC recommendation line for fosphenytoin: CPIC recommended clinical action for fosphenytoin and CYP2C9 *1/*29 and HLA-B undefined.
+2025-01-13 00:38:16,013 - INFO - Found No Action for fosphenytoin - skipping
+2025-01-13 00:38:16,013 - INFO - Found drug section: halothane
+2025-01-13 00:38:16,013 - INFO - Found CPIC recommendation line for halothane: CPIC recommended clinical action for halothane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:38:16,013 - INFO - End of CPIC section for halothane
+2025-01-13 00:38:16,013 - INFO - Found drug section: irinotecan
+2025-01-13 00:38:16,013 - INFO - No CPIC guidance for irinotecan
+2025-01-13 00:38:16,013 - INFO - Found drug section: isoflurane
+2025-01-13 00:38:16,013 - INFO - Found CPIC recommendation line for isoflurane: CPIC recommended clinical action for isoflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:38:16,013 - INFO - End of CPIC section for isoflurane
+2025-01-13 00:38:16,013 - INFO - Found drug section: lansoprazole
+2025-01-13 00:38:16,013 - INFO - Found CPIC recommendation line for lansoprazole: CPIC recommended clinical action for lansoprazole and CYP2C19 *3/*17.
+2025-01-13 00:38:16,013 - INFO - Added dosing_info recommendation for lansoprazole
+2025-01-13 00:38:16,013 - INFO - End of CPIC section for lansoprazole
+2025-01-13 00:38:16,013 - INFO - Found drug section: mavacamten
+2025-01-13 00:38:16,013 - INFO - No CPIC guidance for mavacamten
+2025-01-13 00:38:16,013 - INFO - Found drug section: meclizine
+2025-01-13 00:38:16,013 - INFO - No CPIC guidance for meclizine
+2025-01-13 00:38:16,013 - INFO - Found drug section: methoxyflurane
+2025-01-13 00:38:16,013 - INFO - Found CPIC recommendation line for methoxyflurane: CPIC recommended clinical action for methoxyflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:38:16,013 - INFO - End of CPIC section for methoxyflurane
+2025-01-13 00:38:16,013 - INFO - Found drug section: omeprazole
+2025-01-13 00:38:16,013 - INFO - Found CPIC recommendation line for omeprazole: CPIC recommended clinical action for omeprazole and CYP2C19 *3/*17.
+2025-01-13 00:38:16,013 - INFO - Added dosing_info recommendation for omeprazole
+2025-01-13 00:38:16,013 - INFO - End of CPIC section for omeprazole
+2025-01-13 00:38:16,013 - INFO - Found drug section: pantoprazole
+2025-01-13 00:38:16,013 - INFO - Found CPIC recommendation line for pantoprazole: CPIC recommended clinical action for pantoprazole and CYP2C19 *3/*17.
+2025-01-13 00:38:16,013 - INFO - Added dosing_info recommendation for pantoprazole
+2025-01-13 00:38:16,013 - INFO - End of CPIC section for pantoprazole
+2025-01-13 00:38:16,013 - INFO - Found drug section: phenytoin
+2025-01-13 00:38:16,013 - INFO - Found CPIC recommendation line for phenytoin: CPIC recommended clinical action for phenytoin and CYP2C9 *1/*29 and HLA-B undefined.
+2025-01-13 00:38:16,014 - INFO - Found No Action for phenytoin - skipping
+2025-01-13 00:38:16,014 - INFO - Found drug section: piroxicam
+2025-01-13 00:38:16,014 - INFO - Found CPIC recommendation line for piroxicam: CPIC recommended clinical action for piroxicam and CYP2C9 *1/*29.
+2025-01-13 00:38:16,014 - INFO - Found No Action for piroxicam - skipping
+2025-01-13 00:38:16,014 - INFO - Found drug section: sertraline
+2025-01-13 00:38:16,014 - INFO - Found CPIC recommendation line for sertraline: CPIC recommended clinical action for sertraline and CYP2B6 *1/*9 and CYP2C19 *3/*17.
+2025-01-13 00:38:16,014 - INFO - Added dosing_info recommendation for sertraline
+2025-01-13 00:38:16,014 - INFO - End of CPIC section for sertraline
+2025-01-13 00:38:16,014 - INFO - Found drug section: sevoflurane
+2025-01-13 00:38:16,014 - INFO - Found CPIC recommendation line for sevoflurane: CPIC recommended clinical action for sevoflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:38:16,014 - INFO - End of CPIC section for sevoflurane
+2025-01-13 00:38:16,014 - INFO - Found drug section: siponimod
+2025-01-13 00:38:16,014 - INFO - No CPIC guidance for siponimod
+2025-01-13 00:38:16,014 - INFO - Found drug section: succinylcholine
+2025-01-13 00:38:16,014 - INFO - Found CPIC recommendation line for succinylcholine: CPIC recommended clinical action for succinylcholine and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:38:16,014 - INFO - End of CPIC section for succinylcholine
+2025-01-13 00:38:16,014 - INFO - Found drug section: tamoxifen
+2025-01-13 00:38:16,014 - INFO - Found CPIC recommendation line for tamoxifen: CPIC recommended clinical action for tamoxifen and CYP2D6 *2/*2.
+2025-01-13 00:38:16,014 - INFO - End of CPIC section for tamoxifen
+2025-01-13 00:38:16,014 - INFO - Found drug section: tetrabenazine
+2025-01-13 00:38:16,014 - INFO - No CPIC guidance for tetrabenazine
+2025-01-13 00:38:16,014 - INFO - Found drug section: voriconazole
+2025-01-13 00:38:16,014 - INFO - Found CPIC recommendation line for voriconazole: CPIC recommended clinical action for voriconazole and CYP2C19 *3/*17.
+2025-01-13 00:38:16,014 - INFO - Found No Action for voriconazole - skipping
+2025-01-13 00:38:16,014 - INFO - Found drug section: warfarin
+2025-01-13 00:38:16,014 - INFO - Found drug section: please see guideline
+2025-01-13 00:38:16,014 - INFO - Found 11 CPIC recommendations:
+2025-01-13 00:38:16,014 - INFO - - atomoxetine: dosing_info
+2025-01-13 00:38:16,014 - INFO - - citalopram: dosing_info
+2025-01-13 00:38:16,014 - INFO - - clopidogrel: alternate_drug
+2025-01-13 00:38:16,014 - INFO - - dexlansoprazole: dosing_info
+2025-01-13 00:38:16,014 - INFO - - efavirenz: dosing_info
+2025-01-13 00:38:16,015 - INFO - - escitalopram: dosing_info
+2025-01-13 00:38:16,015 - INFO - - fluvastatin: alternate_drug
+2025-01-13 00:38:16,015 - INFO - - lansoprazole: dosing_info
+2025-01-13 00:38:16,015 - INFO - - omeprazole: dosing_info
+2025-01-13 00:38:16,015 - INFO - - pantoprazole: dosing_info
+2025-01-13 00:38:16,015 - INFO - - sertraline: dosing_info
+2025-01-13 00:38:16,015 - INFO - Copied original file to: test_output/processed_files/N1DL5740.xlsx
+2025-01-13 00:38:16,085 - INFO - Unmerged cells in range: C180:E180
+2025-01-13 00:38:16,085 - INFO - Unmerged cells in range: C176:E176
+2025-01-13 00:38:16,085 - INFO - Unmerged cells in range: C152:C153
+2025-01-13 00:38:16,085 - INFO - Unmerged cells in range: C148:C149
+2025-01-13 00:38:16,085 - INFO - Unmerged cells in range: C8:C9
+2025-01-13 00:38:16,085 - INFO - Unmerged cells in range: C58:C59
+2025-01-13 00:38:16,085 - INFO - Unmerged cells in range: C178:E179
+2025-01-13 00:38:16,085 - INFO - Unmerged cells in range: C177:E177
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D172:E172
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: E8:E9
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D174:E174
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: A182:E182
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D155:E155
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D158:E158
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D151:E151
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D160:E160
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D141:E141
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D150:E150
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D125:E125
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D112:E112
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: A185:E185
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D127:E127
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: D114:E114
+2025-01-13 00:38:16,086 - INFO - Unmerged cells in range: A184:E184
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D164:E164
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D113:E113
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D115:E115
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D138:E138
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D131:E131
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D140:E140
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D148:E149
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D124:E124
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: A183:E183
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: A133:E133
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: E46:E47
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D126:E126
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D166:E166
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D175:E175
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D168:E168
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D165:E165
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D118:E118
+2025-01-13 00:38:16,087 - INFO - Unmerged cells in range: D167:E167
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D161:E161
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D142:E142
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D129:E129
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: E16:E21
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D169:E169
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D144:E144
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: A186:E186
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D128:E128
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: E60:E61
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D152:E153
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D139:E139
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D170:E170
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: A187:E187
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D120:E120
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: A108:E108
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D163:E163
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D116:E116
+2025-01-13 00:38:16,088 - INFO - Unmerged cells in range: D162:E162
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D156:E156
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D171:E171
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D146:E146
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: E62:E63
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D143:E143
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D117:E117
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D157:E157
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D109:E109
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D119:E119
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D159:E159
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D111:E111
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: E10:E13
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: A7:E7
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D145:E145
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D154:E154
+2025-01-13 00:38:16,089 - INFO - Unmerged cells in range: D147:E147
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: E36:E37
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: D122:E122
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: D137:E137
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: D121:E121
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: D130:E130
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: D173:E173
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: D123:E123
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: D110:E110
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: F16:F21
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: F62:F63
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: F10:F13
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: F36:F37
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: F46:F47
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: F8:F9
+2025-01-13 00:38:16,090 - INFO - Unmerged cells in range: F60:F61
+2025-01-13 00:38:16,091 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-13 00:38:16,091 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-13 00:38:16,091 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-13 00:38:16,091 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-13 00:38:16,091 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-13 00:38:16,091 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-13 00:38:16,091 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-13 00:38:16,091 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-13 00:38:16,091 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-13 00:38:16,091 - INFO - Checking row 18, Column C content: Fluvastatin
+2025-01-13 00:38:16,091 - INFO - Moved 'Fluvastatin' to column F (Alternate Drug)
+2025-01-13 00:38:16,091 - INFO - Removed Fluvastatin from column C. Remaining drugs: None
+2025-01-13 00:38:16,091 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-13 00:38:16,092 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-13 00:38:16,092 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-13 00:38:16,092 - INFO - Checking row 22, Column C content: Clopidogrel
+2025-01-13 00:38:16,092 - INFO - Moved 'Clopidogrel' to column F (Alternate Drug)
+2025-01-13 00:38:16,092 - INFO - Removed Clopidogrel from column C. Remaining drugs: None
+2025-01-13 00:38:16,092 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-13 00:38:16,092 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-13 00:38:16,092 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-13 00:38:16,092 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-13 00:38:16,092 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-13 00:38:16,092 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-13 00:38:16,092 - INFO - Checking row 29, Column C content: Dexlansoprazole         Lansoprazole                            Pantoprazole                Omeprazole
+2025-01-13 00:38:16,092 - INFO - Moved 'Dexlansoprazole' to column E (Dosing Info)
+2025-01-13 00:38:16,092 - INFO - Moved 'Lansoprazole' to column E (Dosing Info)
+2025-01-13 00:38:16,092 - INFO - Moved 'Pantoprazole' to column E (Dosing Info)
+2025-01-13 00:38:16,092 - INFO - Moved 'Omeprazole' to column E (Dosing Info)
+2025-01-13 00:38:16,092 - INFO - Removed Dexlansoprazole, Lansoprazole, Pantoprazole, Omeprazole from column C. Remaining drugs: None
+2025-01-13 00:38:16,092 - INFO - Checking row 30, Column C content: Esomeprazole
+2025-01-13 00:38:16,092 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-13 00:38:16,092 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-13 00:38:16,092 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-13 00:38:16,092 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-13 00:38:16,092 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-13 00:38:16,092 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-13 00:38:16,093 - INFO - Checking row 37, Column C content: Efavirenz
+2025-01-13 00:38:16,093 - INFO - Moved 'Efavirenz' to column E (Dosing Info)
+2025-01-13 00:38:16,093 - INFO - Removed Efavirenz from column C. Remaining drugs: None
+2025-01-13 00:38:16,093 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-13 00:38:16,093 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-13 00:38:16,093 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-13 00:38:16,093 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-13 00:38:16,093 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-13 00:38:16,093 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-13 00:38:16,093 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-13 00:38:16,093 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-13 00:38:16,093 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-13 00:38:16,093 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-13 00:38:16,093 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-13 00:38:16,093 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-13 00:38:16,093 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-13 00:38:16,093 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-13 00:38:16,093 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-13 00:38:16,093 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-13 00:38:16,093 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-13 00:38:16,093 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-13 00:38:16,093 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-13 00:38:16,093 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-13 00:38:16,094 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-13 00:38:16,094 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-13 00:38:16,094 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-13 00:38:16,094 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-13 00:38:16,094 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-13 00:38:16,094 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-13 00:38:16,094 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-13 00:38:16,094 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-13 00:38:16,094 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-13 00:38:16,094 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-13 00:38:16,094 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-13 00:38:16,094 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-13 00:38:16,094 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-13 00:38:16,094 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-13 00:38:16,094 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-13 00:38:16,094 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-13 00:38:16,094 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-13 00:38:16,094 - INFO - Checking row 76, Column C content: Codeine
+2025-01-13 00:38:16,094 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-13 00:38:16,094 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-13 00:38:16,094 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-13 00:38:16,094 - INFO - Checking row 80, Column C content: Methadone
+2025-01-13 00:38:16,094 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-13 00:38:16,094 - INFO - Checking row 82, Column C content: Atomoxetine
+Paroxetine
+Citalopram
+Escitalopram
+2025-01-13 00:38:16,094 - INFO - Moved 'Atomoxetine' to column E (Dosing Info)
+2025-01-13 00:38:16,095 - INFO - Moved 'Citalopram' to column E (Dosing Info)
+2025-01-13 00:38:16,095 - INFO - Moved 'Escitalopram' to column E (Dosing Info)
+2025-01-13 00:38:16,095 - INFO - Removed Atomoxetine, Citalopram, Escitalopram from column C. Remaining drugs: Paroxetine
+2025-01-13 00:38:16,095 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-13 00:38:16,095 - INFO - Moved 'Sertraline' to column E (Dosing Info)
+2025-01-13 00:38:16,095 - INFO - Removed Sertraline from column C. Remaining drugs: None
+2025-01-13 00:38:16,095 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-13 00:38:16,095 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-13 00:38:16,095 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-13 00:38:16,095 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-13 00:38:16,095 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-13 00:38:16,095 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-13 00:38:16,095 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-13 00:38:16,095 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-13 00:38:16,095 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-13 00:38:16,095 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-13 00:38:16,095 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-13 00:38:16,095 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-13 00:38:16,095 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-13 00:38:16,095 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-13 00:38:16,095 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-13 00:38:16,095 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-13 00:38:16,095 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-13 00:38:16,095 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-13 00:38:16,095 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-13 00:38:16,096 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-13 00:38:16,128 - INFO - 
+Summary of changes for N1DL5740.xlsx:
+2025-01-13 00:38:16,128 - INFO - - Fluvastatin -> Column F
+2025-01-13 00:38:16,128 - INFO - - Clopidogrel -> Column F
+2025-01-13 00:38:16,128 - INFO - - Dexlansoprazole -> Column E
+2025-01-13 00:38:16,128 - INFO - - Lansoprazole -> Column E
+2025-01-13 00:38:16,128 - INFO - - Pantoprazole -> Column E
+2025-01-13 00:38:16,128 - INFO - - Omeprazole -> Column E
+2025-01-13 00:38:16,128 - INFO - - Efavirenz -> Column E
+2025-01-13 00:38:16,128 - INFO - - Atomoxetine -> Column E
+2025-01-13 00:38:16,128 - INFO - - Citalopram -> Column E
+2025-01-13 00:38:16,128 - INFO - - Escitalopram -> Column E
+2025-01-13 00:38:16,128 - INFO - - Sertraline -> Column E
+2025-01-13 00:38:16,128 - INFO - Updated Excel file saved to: test_output/processed_files/N1DL5740.xlsx

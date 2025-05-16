@@ -1,0 +1,23 @@
+Sample,Gene Name,Genotype,Phenotype
+N1DL5740,ABCG2,Reference/rs2231142,Decreased Function
+N1DL5740,CACNA1S,Reference/Reference,Uncertain Susceptibility
+N1DL5740,CFTR,Reference/Reference,Indeterminate
+N1DL5740,CYP2B6,*1/*9,Intermediate Metabolizer
+N1DL5740,CYP2C19,*3/*17,Intermediate Metabolizer
+N1DL5740,CYP2C8,*1/*1,Indeterminate
+N1DL5740,CYP2C9,*1/*29,Intermediate Metabolizer
+N1DL5740,CYP2D6,*2/*2,Normal Metabolizer
+N1DL5740,CYP3A4,*1/*18,Indeterminate
+N1DL5740,CYP3A5,*3/*3,Poor Metabolizer
+N1DL5740,CYP4F2,*1/*1,Indeterminate
+N1DL5740,DPYD,Reference/c.1627A>G (*5),Normal Metabolizer
+N1DL5740,F5,Reference/Reference,Favorable Response
+N1DL5740,G6PD,B/B,Indeterminate
+N1DL5740,IFNL3,Reference/Reference,Favorable Response
+N1DL5740,NAT2,*4/*6,Indeterminate
+N1DL5740,NUDT15,*1/*1,Normal Metabolizer
+N1DL5740,RYR1,Reference/Reference,Uncertain Susceptibility
+N1DL5740,SLCO1B1,*1/*37,Normal Function
+N1DL5740,TPMT,*1/*1,Normal Metabolizer
+N1DL5740,UGT1A1,*1/*6,Intermediate Metabolizer
+N1DL5740,VKORC1,Reference/rs9923231,Indeterminate

@@ -1,0 +1,109 @@
+Project Workflow Documentation
+==========================
+
+This document outlines the complete workflow of the pharmacogenetic data processing pipeline.
+
+Directory Structure:
+------------------
+.
+├── step1_phenotype_genotype_output/
+│   └── processed_files/          # Contains Excel files from step 1
+├── step2_input/
+│   └── scraped_content/          # Contains scraped content from PharmGKB
+├── step2_output/
+│   ├── logs/                     # Step 2 processing logs
+│   └── processed_files/          # Final processed Excel files
+└── logs/                         # Scraper logs
+
+Step 1: Initial Excel Processing
+------------------------------
+1. Input: Raw phenotype and genotype data
+2. Output: Excel files in step1_phenotype_genotype_output/processed_files/
+3. Each file is named with the sample ID (e.g., N1DL5740.xlsx)
+4. Excel Structure:
+   - Column C: Initial drug list
+   - Column E: Will contain drugs with dosing changes
+   - Column F: Will contain drugs with alternate recommendations
+
+Step 2: PharmGKB Data Scraping
+-----------------------------
+Script: pharmgkb_scraper.py
+
+1. Input: 
+   - consolidated_sample_urls_JAPAN(in).csv containing sample IDs and URLs
+   - Excel files from step1_phenotype_genotype_output/processed_files/
+
+2. Process:
+   - Reads URLs for each sample from the CSV file
+   - Uses Selenium WebDriver to access PharmGKB website
+   - Scrapes CPIC recommendations for each drug
+   - Handles dynamic content loading and page navigation
+   - Extracts relevant sections starting from "Learn more about CPIC"
+
+3. Output:
+   - Saves scraped content in step2_input/scraped_content/
+   - Files named as: {sample_id}_processed_content_{timestamp}.txt
+   - Contains drug recommendations and gene information
+
+Step 3: Final Processing
+----------------------
+Script: step2_process_all_samples.py
+
+1. Input:
+   - Excel files from step1_phenotype_genotype_output/processed_files/
+   - Scraped content from step2_input/scraped_content/
+   - Drug Wise Aggregate Samples.xlsx for consolidated results
+
+2. Process:
+   For each sample:
+   a) Reads the scraped content file
+   b) Parses CPIC recommendations:
+      - Identifies drug sections
+      - Extracts "Dosing Info" and "Alternate Drug" recommendations
+      - Captures gene information (e.g., CYP2C9 *1/*29)
+   
+   c) Processes Excel file:
+      - Preserves cell styles and formatting
+      - Moves drugs with dosing recommendations to Column E
+      - Moves drugs with alternate recommendations to Column F
+      - Keeps remaining drugs in Column C
+   
+   d) Updates aggregate file:
+      - Adds new column for each sample
+      - Records "Dosage Change" or "Consider Alternate" with gene info
+      - Maintains "Standard Precautions" for unchanged drugs
+
+3. Output:
+   - Processed Excel files in step2_output/processed_files/
+   - Updated Drug Wise Aggregate Samples.xlsx
+   - Detailed logs in step2_output/logs/
+
+Key Features:
+-----------
+1. Maintains data integrity:
+   - Preserves Excel formatting and styles
+   - Handles merged cells carefully
+   - Maintains original drug case sensitivity
+
+2. Error Handling:
+   - Comprehensive logging at each step
+   - Continues processing if one sample fails
+   - Reports success/failure statistics
+
+3. Data Validation:
+   - Only processes samples with both Excel and content files
+   - Verifies drug names and recommendations
+   - Ensures gene information is correctly extracted
+
+4. Formatting:
+   - Maintains consistent output format
+   - Preserves cell styles in Excel files
+   - Standardizes recommendation text
+
+Usage Notes:
+-----------
+1. Ensure all input files are in their correct locations
+2. Run scripts in order: step1 → scraper → step2
+3. Monitor logs for any processing issues
+4. Check the aggregate file for consolidated results
+5. Verify processed Excel files in step2_output/processed_files/ 

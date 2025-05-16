@@ -1,0 +1,23 @@
+Sample,Gene Name,Genotype,Phenotype
+N1DL6585,CYP2B6,*1/*1,Normal Metabolizer
+N1DL6585,DPYD,Reference/c.1627A>G (*5),Normal Metabolizer
+N1DL6585,CYP3A4,*1/*1,Indeterminate
+N1DL6585,NUDT15,*1/*5,Indeterminate
+N1DL6585,IFNL3,Reference/Reference,Favorable Response
+N1DL6585,ABCG2,Reference/Reference,Normal Function
+N1DL6585,CYP2C9,*1/*1,Normal Metabolizer
+N1DL6585,CYP2C8,*1/*1,Indeterminate
+N1DL6585,NAT2,*4/*6,Indeterminate
+N1DL6585,VKORC1,Reference/rs9923231,Indeterminate
+N1DL6585,G6PD,B/B,Indeterminate
+N1DL6585,SLCO1B1,*37/*37,Normal Function
+N1DL6585,CACNA1S,Reference/Reference,Uncertain Susceptibility
+N1DL6585,CYP2D6,*2/*2,Normal Metabolizer
+N1DL6585,CYP2C19,*1/*1,Normal Metabolizer
+N1DL6585,UGT1A1,*1/*80,Indeterminate
+N1DL6585,F5,Reference/Reference,Favorable Response
+N1DL6585,RYR1,Reference/Reference,Uncertain Susceptibility
+N1DL6585,CFTR,Reference/Reference,Indeterminate
+N1DL6585,TPMT,*1/*1,Normal Metabolizer
+N1DL6585,CYP3A5,*1/*1,Normal Metabolizer
+N1DL6585,CYP4F2,*3/*3,Indeterminate

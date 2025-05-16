@@ -1,0 +1,134 @@
+2025-01-13 00:51:49,605 - INFO - Created output directory: test_output/processed_files
+2025-01-13 00:51:49,605 - INFO - Processing test sample: N1DL5740
+2025-01-13 00:51:49,605 - INFO - Starting to parse CPIC content...
+2025-01-13 00:51:49,605 - INFO - Found drug section: atazanavir
+2025-01-13 00:51:49,605 - INFO - Found CPIC recommendation line for atazanavir: CPIC recommended clinical action for atazanavir and UGT1A1 *1/*6.
+2025-01-13 00:51:49,605 - INFO - Found drug section: atomoxetine
+2025-01-13 00:51:49,605 - INFO - Found CPIC recommendation line for atomoxetine: CPIC recommended clinical action for atomoxetine and CYP2D6 *2/*2.
+2025-01-13 00:51:49,605 - INFO - Added dosing_info recommendation for atomoxetine
+2025-01-13 00:51:49,605 - INFO - Added dosing_info recommendation for atomoxetine
+2025-01-13 00:51:49,606 - INFO - Added dosing_info recommendation for atomoxetine
+2025-01-13 00:51:49,606 - INFO - Added dosing_info recommendation for atomoxetine
+2025-01-13 00:51:49,606 - INFO - Found drug section: avatrombopag
+2025-01-13 00:51:49,606 - INFO - Found drug section: brivaracetam
+2025-01-13 00:51:49,606 - INFO - Found drug section: citalopram
+2025-01-13 00:51:49,606 - INFO - Found CPIC recommendation line for citalopram: CPIC recommended clinical action for citalopram and CYP2C19 *3/*17.
+2025-01-13 00:51:49,606 - INFO - Added dosing_info recommendation for citalopram
+2025-01-13 00:51:49,606 - INFO - Added dosing_info recommendation for citalopram
+2025-01-13 00:51:49,606 - INFO - Found drug section: clobazam
+2025-01-13 00:51:49,606 - INFO - Found drug section: clopidogrel
+2025-01-13 00:51:49,606 - INFO - Found CPIC recommendation line for clopidogrel: CPIC recommended clinical action for clopidogrel and CYP2C19 *3/*17.
+2025-01-13 00:51:49,606 - INFO - Added alternate_drug recommendation for clopidogrel
+2025-01-13 00:51:49,606 - INFO - Added alternate_drug recommendation for clopidogrel
+2025-01-13 00:51:49,606 - INFO - Added alternate_drug recommendation for clopidogrel
+2025-01-13 00:51:49,606 - INFO - Added alternate_drug recommendation for clopidogrel
+2025-01-13 00:51:49,606 - INFO - Found drug section: desflurane
+2025-01-13 00:51:49,606 - INFO - Found CPIC recommendation line for desflurane: CPIC recommended clinical action for desflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:51:49,606 - INFO - Found drug section: dexlansoprazole
+2025-01-13 00:51:49,606 - INFO - Found CPIC recommendation line for dexlansoprazole: CPIC recommended clinical action for dexlansoprazole and CYP2C19 *3/*17.
+2025-01-13 00:51:49,606 - INFO - Added dosing_info recommendation for dexlansoprazole
+2025-01-13 00:51:49,606 - INFO - Added dosing_info recommendation for dexlansoprazole
+2025-01-13 00:51:49,606 - INFO - Found drug section: doxepin
+2025-01-13 00:51:49,606 - INFO - Found CPIC recommendation line for doxepin: CPIC recommended clinical action for doxepin and CYP2C19 *3/*17 and CYP2D6 *2/*2.
+2025-01-13 00:51:49,606 - INFO - Found drug section: dronabinol
+2025-01-13 00:51:49,606 - INFO - Found drug section: efavirenz
+2025-01-13 00:51:49,607 - INFO - Found CPIC recommendation line for efavirenz: CPIC recommended clinical action for efavirenz and CYP2B6 *1/*9.
+2025-01-13 00:51:49,607 - INFO - Added dosing_info recommendation for efavirenz
+2025-01-13 00:51:49,607 - INFO - Added dosing_info recommendation for efavirenz
+2025-01-13 00:51:49,607 - INFO - Found drug section: eliglustat
+2025-01-13 00:51:49,607 - INFO - Found drug section: enflurane
+2025-01-13 00:51:49,607 - INFO - Found CPIC recommendation line for enflurane: CPIC recommended clinical action for enflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:51:49,607 - INFO - Found drug section: escitalopram
+2025-01-13 00:51:49,607 - INFO - Found CPIC recommendation line for escitalopram: CPIC recommended clinical action for escitalopram and CYP2C19 *3/*17.
+2025-01-13 00:51:49,607 - INFO - Added dosing_info recommendation for escitalopram
+2025-01-13 00:51:49,607 - INFO - Added dosing_info recommendation for escitalopram
+2025-01-13 00:51:49,607 - INFO - Found drug section: fluvastatin
+2025-01-13 00:51:49,607 - INFO - Found CPIC recommendation line for fluvastatin: CPIC recommended clinical action for fluvastatin and CYP2C9 *1/*29 and SLCO1B1 *1/*37.
+2025-01-13 00:51:49,607 - INFO - Added alternate_drug recommendation for fluvastatin
+2025-01-13 00:51:49,607 - INFO - Added alternate_drug recommendation for fluvastatin
+2025-01-13 00:51:49,607 - INFO - Added dosing_info recommendation for fluvastatin
+2025-01-13 00:51:49,607 - INFO - Added dosing_info recommendation for fluvastatin
+2025-01-13 00:51:49,607 - INFO - Found drug section: fosphenytoin
+2025-01-13 00:51:49,607 - INFO - Found CPIC recommendation line for fosphenytoin: CPIC recommended clinical action for fosphenytoin and CYP2C9 *1/*29 and HLA-B undefined.
+2025-01-13 00:51:49,607 - INFO - Found drug section: halothane
+2025-01-13 00:51:49,607 - INFO - Found CPIC recommendation line for halothane: CPIC recommended clinical action for halothane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:51:49,607 - INFO - Found drug section: irinotecan
+2025-01-13 00:51:49,607 - INFO - Found drug section: isoflurane
+2025-01-13 00:51:49,607 - INFO - Found CPIC recommendation line for isoflurane: CPIC recommended clinical action for isoflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:51:49,607 - INFO - Found drug section: lansoprazole
+2025-01-13 00:51:49,607 - INFO - Found CPIC recommendation line for lansoprazole: CPIC recommended clinical action for lansoprazole and CYP2C19 *3/*17.
+2025-01-13 00:51:49,608 - INFO - Added dosing_info recommendation for lansoprazole
+2025-01-13 00:51:49,608 - INFO - Added dosing_info recommendation for lansoprazole
+2025-01-13 00:51:49,608 - INFO - Found drug section: mavacamten
+2025-01-13 00:51:49,608 - INFO - Found drug section: meclizine
+2025-01-13 00:51:49,608 - INFO - Found drug section: methoxyflurane
+2025-01-13 00:51:49,608 - INFO - Found CPIC recommendation line for methoxyflurane: CPIC recommended clinical action for methoxyflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:51:49,608 - INFO - Found drug section: omeprazole
+2025-01-13 00:51:49,608 - INFO - Found CPIC recommendation line for omeprazole: CPIC recommended clinical action for omeprazole and CYP2C19 *3/*17.
+2025-01-13 00:51:49,608 - INFO - Added dosing_info recommendation for omeprazole
+2025-01-13 00:51:49,608 - INFO - Added dosing_info recommendation for omeprazole
+2025-01-13 00:51:49,608 - INFO - Found drug section: pantoprazole
+2025-01-13 00:51:49,608 - INFO - Found CPIC recommendation line for pantoprazole: CPIC recommended clinical action for pantoprazole and CYP2C19 *3/*17.
+2025-01-13 00:51:49,608 - INFO - Added dosing_info recommendation for pantoprazole
+2025-01-13 00:51:49,608 - INFO - Added dosing_info recommendation for pantoprazole
+2025-01-13 00:51:49,608 - INFO - Found drug section: phenytoin
+2025-01-13 00:51:49,608 - INFO - Found CPIC recommendation line for phenytoin: CPIC recommended clinical action for phenytoin and CYP2C9 *1/*29 and HLA-B undefined.
+2025-01-13 00:51:49,608 - INFO - Found drug section: piroxicam
+2025-01-13 00:51:49,608 - INFO - Found CPIC recommendation line for piroxicam: CPIC recommended clinical action for piroxicam and CYP2C9 *1/*29.
+2025-01-13 00:51:49,608 - INFO - Found drug section: sertraline
+2025-01-13 00:51:49,608 - INFO - Found CPIC recommendation line for sertraline: CPIC recommended clinical action for sertraline and CYP2B6 *1/*9 and CYP2C19 *3/*17.
+2025-01-13 00:51:49,608 - INFO - Added dosing_info recommendation for sertraline
+2025-01-13 00:51:49,608 - INFO - Added dosing_info recommendation for sertraline
+2025-01-13 00:51:49,608 - INFO - Found drug section: sevoflurane
+2025-01-13 00:51:49,608 - INFO - Found CPIC recommendation line for sevoflurane: CPIC recommended clinical action for sevoflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:51:49,608 - INFO - Found drug section: siponimod
+2025-01-13 00:51:49,609 - INFO - Found drug section: succinylcholine
+2025-01-13 00:51:49,609 - INFO - Found CPIC recommendation line for succinylcholine: CPIC recommended clinical action for succinylcholine and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+2025-01-13 00:51:49,609 - INFO - Found drug section: tamoxifen
+2025-01-13 00:51:49,609 - INFO - Found CPIC recommendation line for tamoxifen: CPIC recommended clinical action for tamoxifen and CYP2D6 *2/*2.
+2025-01-13 00:51:49,609 - INFO - Found drug section: tetrabenazine
+2025-01-13 00:51:49,609 - INFO - Found drug section: voriconazole
+2025-01-13 00:51:49,609 - INFO - Found CPIC recommendation line for voriconazole: CPIC recommended clinical action for voriconazole and CYP2C19 *3/*17.
+2025-01-13 00:51:49,609 - INFO - Found drug section: warfarin
+2025-01-13 00:51:49,609 - INFO - Found drug section: please see guideline
+2025-01-13 00:51:49,609 - INFO - Removing atazanavir as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing avatrombopag as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing brivaracetam as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing clobazam as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing desflurane as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing doxepin as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing dronabinol as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing eliglustat as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing enflurane as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing fosphenytoin as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing halothane as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing irinotecan as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing isoflurane as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing mavacamten as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing meclizine as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing methoxyflurane as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing phenytoin as it has no actionable recommendations
+2025-01-13 00:51:49,609 - INFO - Removing piroxicam as it has no actionable recommendations
+2025-01-13 00:51:49,610 - INFO - Removing sevoflurane as it has no actionable recommendations
+2025-01-13 00:51:49,610 - INFO - Removing siponimod as it has no actionable recommendations
+2025-01-13 00:51:49,610 - INFO - Removing succinylcholine as it has no actionable recommendations
+2025-01-13 00:51:49,610 - INFO - Removing tamoxifen as it has no actionable recommendations
+2025-01-13 00:51:49,610 - INFO - Removing tetrabenazine as it has no actionable recommendations
+2025-01-13 00:51:49,610 - INFO - Removing voriconazole as it has no actionable recommendations
+2025-01-13 00:51:49,610 - INFO - Removing warfarin as it has no actionable recommendations
+2025-01-13 00:51:49,610 - INFO - Removing please see guideline as it has no actionable recommendations
+2025-01-13 00:51:49,610 - INFO - Found 12 CPIC recommendations:
+2025-01-13 00:51:49,610 - INFO - - atomoxetine: dosing_info
+2025-01-13 00:51:49,610 - INFO - - citalopram: dosing_info
+2025-01-13 00:51:49,610 - INFO - - clopidogrel: alternate_drug
+2025-01-13 00:51:49,610 - INFO - - dexlansoprazole: dosing_info
+2025-01-13 00:51:49,610 - INFO - - efavirenz: dosing_info
+2025-01-13 00:51:49,610 - INFO - - escitalopram: dosing_info
+2025-01-13 00:51:49,610 - INFO - - fluvastatin: alternate_drug
+2025-01-13 00:51:49,610 - INFO - - fluvastatin: dosing_info
+2025-01-13 00:51:49,610 - INFO - - lansoprazole: dosing_info
+2025-01-13 00:51:49,610 - INFO - - omeprazole: dosing_info
+2025-01-13 00:51:49,610 - INFO - - pantoprazole: dosing_info
+2025-01-13 00:51:49,610 - INFO - - sertraline: dosing_info
+2025-01-13 00:51:49,611 - INFO - Copied original file to: test_output/processed_files/N1DL5740.xlsx
+2025-01-13 00:51:49,682 - ERROR - Error processing Excel file step1_phenotype_genotype_output/processed_files/N1DL5740.xlsx: unhashable type: 'StyleProxy'

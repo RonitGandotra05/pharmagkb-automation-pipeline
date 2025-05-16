@@ -1,0 +1,23 @@
+Sample,Gene Name,Genotype,Phenotype
+N1DL7719,CYP2B6,*1/*1,Normal Metabolizer
+N1DL7719,DPYD,Reference/Reference,Normal Metabolizer
+N1DL7719,CYP3A4,*1/*1,Indeterminate
+N1DL7719,NUDT15,*1/*1,Normal Metabolizer
+N1DL7719,IFNL3,Reference/Reference,Favorable Response
+N1DL7719,ABCG2,rs2231142/rs2231142,Poor Function
+N1DL7719,CYP2C9,*1/*1,Normal Metabolizer
+N1DL7719,CYP2C8,*1/*1,Indeterminate
+N1DL7719,NAT2,*4/*6,Indeterminate
+N1DL7719,VKORC1,Reference/Reference,Indeterminate
+N1DL7719,G6PD,B/B,Indeterminate
+N1DL7719,SLCO1B1,*1/*1,Normal Function
+N1DL7719,CACNA1S,Reference/Reference,Uncertain Susceptibility
+N1DL7719,CYP2D6,*2/*2,Normal Metabolizer
+N1DL7719,CYP2C19,*1/*1,Normal Metabolizer
+N1DL7719,UGT1A1,*1/*1,Normal Metabolizer
+N1DL7719,F5,Reference/Reference,Favorable Response
+N1DL7719,RYR1,Reference/Reference,Uncertain Susceptibility
+N1DL7719,CFTR,Reference/Reference,Indeterminate
+N1DL7719,TPMT,*1/*1,Normal Metabolizer
+N1DL7719,CYP3A5,*3/*3,Poor Metabolizer
+N1DL7719,CYP4F2,*1/*1,Indeterminate

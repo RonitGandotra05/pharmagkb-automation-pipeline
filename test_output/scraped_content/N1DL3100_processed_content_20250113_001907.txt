@@ -1,0 +1,285 @@
+Learn more about CPIC
+(opens in new window)
+DPWG
+Learn more about DPWG
+(opens in new window)
+FDA Label Annotations
+Learn more about FDA
+(opens in new window)
+FDA Table of Pharmacogenetic Associations
+Learn more about FDA
+(opens in new window)
+atazanavir
+(opens in new window)
+CPIC recommended clinical action for atazanavir and UGT1A1 *1/*1.
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+DPWG has no guidance for atazanavir and the genes selected.
+FDA Label provides no wording for atazanavir and CYP2C19 *1/*1, after evaluating the evidence.
+see the annotation for more details
+(opens in new window)
+FDA Table of Pharmacogenetic Associations has no wording for atazanavir and the genes selected.
+atomoxetine
+(opens in new window)
+CPIC recommended clinical action for atomoxetine and CYP2D6 *2/*2.
+Adult patients.
+Dosing Info
+Learn more about the Dosing Info tag
+(opens in new window)
+Pediatric patients.
+Dosing Info
+Learn more about the Dosing Info tag
+(opens in new window)
+DPWG recommended clinical action for atomoxetine and CYP2D6 *2/*2.
+No Action
+FDA Label provides no wording for atomoxetine and CYP2D6 *2/*2, after evaluating the evidence.
+see the annotation for more details
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (Recommendations Section) provides no wording for atomoxetine and CYP2D6 *2/*2.
+see the full table
+(opens in new window)
+desflurane
+(opens in new window)
+CPIC recommended clinical action for desflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+DPWG has no guidance for desflurane and the genes selected.
+FDA Label wording for desflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+Alternate Drug
+Learn more about the Alternate Drug tag
+(opens in new window)
+FDA Table of Pharmacogenetic Associations has no wording for desflurane and the genes selected.
+dexlansoprazole
+(opens in new window)
+CPIC recommended clinical action for dexlansoprazole and CYP2C19 *1/*1.
+Dosing Info
+Learn more about the Dosing Info tag
+(opens in new window)
+DPWG has no guidance for dexlansoprazole and the genes selected.
+FDA Label provides no wording for dexlansoprazole and CYP2C19 *1/*1, after evaluating the evidence.
+see the annotation for more details
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (PK Section) provides no wording for dexlansoprazole and CYP2C19 *1/*1.
+see the full table
+(opens in new window)
+eliglustat
+(opens in new window)
+CPIC has no guidance for eliglustat and the genes selected.
+DPWG recommended clinical action for eliglustat and CYP2D6 *2/*2.
+No Action
+FDA Label wording for eliglustat and CYP2D6 *2/*2.
+Dosing Info
+Learn more about the Dosing Info tag
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (Recommendations Section) wording for eliglustat and CYP2D6 *2/*2.
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+enflurane
+(opens in new window)
+CPIC recommended clinical action for enflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+DPWG has no guidance for enflurane and the genes selected.
+FDA Label has no wording for enflurane and the genes selected.
+FDA Table of Pharmacogenetic Associations has no wording for enflurane and the genes selected.
+halothane
+(opens in new window)
+CPIC recommended clinical action for halothane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+DPWG has no guidance for halothane and the genes selected.
+FDA Label has no wording for halothane and the genes selected.
+FDA Table of Pharmacogenetic Associations has no wording for halothane and the genes selected.
+isoflurane
+(opens in new window)
+CPIC recommended clinical action for isoflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+DPWG has no guidance for isoflurane and the genes selected.
+FDA Label wording for isoflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+Alternate Drug
+Learn more about the Alternate Drug tag
+(opens in new window)
+FDA Table of Pharmacogenetic Associations has no wording for isoflurane and the genes selected.
+lansoprazole
+(opens in new window)
+CPIC recommended clinical action for lansoprazole and CYP2C19 *1/*1.
+Dosing Info
+Learn more about the Dosing Info tag
+(opens in new window)
+DPWG recommended clinical action for lansoprazole and CYP2C19 *1/*1.
+No Action
+FDA Label provides no wording for lansoprazole and CYP2C19 *1/*1, after evaluating the evidence.
+see the annotation for more details
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (PK Section) provides no wording for lansoprazole and CYP2C19 *1/*1.
+see the full table
+(opens in new window)
+meclizine
+(opens in new window)
+CPIC has no guidance for meclizine and the genes selected.
+DPWG has no guidance for meclizine and the genes selected.
+FDA Label wording for meclizine and CYP2D6 *2/*2.
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (Recommendations Section) provides no wording for meclizine and CYP2D6 *2/*2.
+see the full table
+(opens in new window)
+methoxyflurane
+(opens in new window)
+CPIC recommended clinical action for methoxyflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+DPWG has no guidance for methoxyflurane and the genes selected.
+FDA Label has no wording for methoxyflurane and the genes selected.
+FDA Table of Pharmacogenetic Associations has no wording for methoxyflurane and the genes selected.
+omeprazole
+(opens in new window)
+CPIC recommended clinical action for omeprazole and CYP2C19 *1/*1.
+Dosing Info
+Learn more about the Dosing Info tag
+(opens in new window)
+DPWG recommended clinical action for omeprazole and CYP2C19 *1/*1.
+No Action
+FDA Label provides no wording for omeprazole and CYP2C19 *1/*1, after evaluating the evidence.
+see the annotation for more details
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (PK Section) provides no wording for omeprazole and CYP2C19 *1/*1.
+see the full table
+(opens in new window)
+pantoprazole
+(opens in new window)
+CPIC recommended clinical action for pantoprazole and CYP2C19 *1/*1.
+Dosing Info
+Learn more about the Dosing Info tag
+(opens in new window)
+DPWG recommended clinical action for pantoprazole and CYP2C19 *1/*1.
+No Action
+FDA Label provides no wording for pantoprazole and CYP2C19 *1/*1, after evaluating the evidence.
+see the annotation for more details
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (Recommendations Section) provides no wording for pantoprazole and CYP2C19 *1/*1.
+see the full table
+(opens in new window)
+sevoflurane
+(opens in new window)
+CPIC recommended clinical action for sevoflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+DPWG has no guidance for sevoflurane and the genes selected.
+FDA Label wording for sevoflurane and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+Alternate Drug
+Learn more about the Alternate Drug tag
+(opens in new window)
+FDA Table of Pharmacogenetic Associations has no wording for sevoflurane and the genes selected.
+succinylcholine
+(opens in new window)
+CPIC recommended clinical action for succinylcholine and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+DPWG has no guidance for succinylcholine and the genes selected.
+FDA Label wording for succinylcholine and CACNA1S Reference/Reference and RYR1 Reference/Reference.
+Alternate Drug
+Learn more about the Alternate Drug tag
+(opens in new window)
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+FDA Table of Pharmacogenetic Associations has no wording for succinylcholine and the genes selected.
+tacrolimus
+(opens in new window)
+CPIC recommended clinical action for tacrolimus and CYP3A5 *1/*1.
+Dosing Info
+Learn more about the Dosing Info tag
+(opens in new window)
+DPWG recommended clinical action for tacrolimus and CYP3A5 *1/*1.
+Dosing Info
+Learn more about the Dosing Info tag
+(opens in new window)
+FDA Label provides no wording for tacrolimus and CYP3A4 *1/*1 and CYP3A5 *1/*1, after evaluating the evidence.
+see the annotation for more details
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (Recommendations Section) wording for tacrolimus and CYP3A5 *1/*1.
+Dosing Info
+Learn more about the Dosing Info tag
+(opens in new window)
+tamoxifen
+(opens in new window)
+CPIC recommended clinical action for tamoxifen and CYP2D6 *2/*2.
+Other Guidance
+Learn more about the Other Guidance tag
+(opens in new window)
+DPWG recommended clinical action for tamoxifen and CYP2D6 *2/*2.
+No Action
+FDA Label provides no wording for tamoxifen and CYP2D6 *2/*2, after evaluating the evidence.
+see the annotation for more details
+(opens in new window)
+FDA Label provides no wording for tamoxifen and the genes selected, after evaluating the evidence.
+see the annotation for more details
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (PK Section) provides no wording for tamoxifen and CYP2D6 *2/*2.
+see the full table
+(opens in new window)
+tetrabenazine
+(opens in new window)
+CPIC has no guidance for tetrabenazine and the genes selected.
+DPWG has no guidance for tetrabenazine and the genes selected.
+FDA Label wording for tetrabenazine and CYP2D6 *2/*2.
+Dosing Info
+Learn more about the Dosing Info tag
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (Recommendations Section) provides no wording for tetrabenazine and CYP2D6 *2/*2.
+see the full table
+(opens in new window)
+warfarin
+(opens in new window)
+CPIC recommendations for warfarin and CYP2C9 *1/*1 and CYP4F2 *1/*1.
+please see guideline
+(opens in new window)
+DPWG recommended clinical action for warfarin and CYP2C9 *1/*1.
+No Action
+DPWG provides no recommendations for warfarin and VKORC1 Reference/Reference, after evaluating the evidence.
+see the annotation for more details
+(opens in new window)
+FDA Label provides no wording for warfarin and CYP2C9 *1/*1 and VKORC1 Reference/Reference, after evaluating the evidence.
+see the annotation for more details
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (Recommendations Section) provides no wording for warfarin and CYP2C9 *1/*1.
+see the full table
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (Recommendations Section) provides no wording for warfarin and CYP4F2 *1/*1.
+see the full table
+(opens in new window)
+FDA Table of Pharmacogenetic Associations (Recommendations Section) provides no wording for warfarin and VKORC1 Reference/Reference.
+see the full table
+(opens in new window)
+The information on this website is not intended for direct diagnostic use or medical decision-making without review by a health care professional. Individuals should not change their health behavior solely on the basis of information contained on this website. If you have questions about the information contained on this website, please see a health care professional.
+About PharmGKB
+FAQ
+Policies
+Downloads
+Citing
+Acknowledgements
+Collaborators
+PharmGKB @ YouTube
+PharmGKB @ Facebook
+PharmGKB @ LinkedIn
+ClinPGx Blog
+PharmGKB
+®
+is a registered trademark of HHS and is financially supported by NIH/NHGRI/NICHD/NIDA. It is managed at Stanford University (U24 HG010615). ©2001-2025 PharmGKB.
+PharmGKB
+®
+data are subject to the Creative Commons Attribution-ShareAlike 4.0 license.
+CC BY-SA
+PharmGKB data usage policy

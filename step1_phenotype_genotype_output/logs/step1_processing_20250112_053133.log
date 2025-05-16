@@ -1,0 +1,4 @@
+2025-01-12 05:31:33,094 - INFO - Starting Step 1: Copy Phenotype and Genotype processing
+2025-01-12 05:31:33,100 - INFO - Successfully read main list with latin1 encoding
+2025-01-12 05:31:33,100 - INFO - Found 25 Japan samples to process
+2025-01-12 05:31:33,101 - ERROR - Error in process_samples: 'Sample ID'

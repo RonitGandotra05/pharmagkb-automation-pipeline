@@ -1,0 +1,23 @@
+Sample,Gene Name,Genotype,Phenotype
+NURA8336,CYP2B6,*1/*1,Normal Metabolizer
+NURA8336,DPYD,c.85T>C (*9A)/c.1627A>G (*5),Normal Metabolizer
+NURA8336,CYP3A4,*1/*1,Indeterminate
+NURA8336,NUDT15,*1/*1,Normal Metabolizer
+NURA8336,IFNL3,Reference/Reference,Favorable Response
+NURA8336,ABCG2,Reference/Reference,Normal Function
+NURA8336,CYP2C9,*1/*1,Normal Metabolizer
+NURA8336,CYP2C8,*1/*1,Indeterminate
+NURA8336,NAT2,*4/*7,Indeterminate
+NURA8336,VKORC1,Reference/Reference,Indeterminate
+NURA8336,G6PD,B/B,Indeterminate
+NURA8336,SLCO1B1,*1/*37,Normal Function
+NURA8336,CACNA1S,Reference/Reference,Uncertain Susceptibility
+NURA8336,CYP2D6,*2/*2,Normal Metabolizer
+NURA8336,CYP2C19,*1/*1,Normal Metabolizer
+NURA8336,UGT1A1,*1/*1,Normal Metabolizer
+NURA8336,F5,Reference/Reference,Favorable Response
+NURA8336,RYR1,Reference/Reference,Uncertain Susceptibility
+NURA8336,CFTR,Reference/Reference,Indeterminate
+NURA8336,TPMT,*1/*1,Normal Metabolizer
+NURA8336,CYP3A5,*1/*3,Intermediate Metabolizer
+NURA8336,CYP4F2,*1/*3,Indeterminate

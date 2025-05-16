@@ -1,0 +1,23 @@
+Sample,Gene Name,Genotype,Phenotype
+N1DL6434,CYP2B6,*1/*9,Intermediate Metabolizer
+N1DL6434,DPYD,Reference/Reference,Normal Metabolizer
+N1DL6434,CYP3A4,*1/*1,Indeterminate
+N1DL6434,NUDT15,*1/*1,Normal Metabolizer
+N1DL6434,IFNL3,Reference/Reference,Favorable Response
+N1DL6434,ABCG2,Reference/Reference,Normal Function
+N1DL6434,CYP2C9,*1/*1,Normal Metabolizer
+N1DL6434,CYP2C8,*1/*1,Indeterminate
+N1DL6434,NAT2,*6/*7,Indeterminate
+N1DL6434,VKORC1,Reference/Reference,Indeterminate
+N1DL6434,G6PD,B/B,Indeterminate
+N1DL6434,SLCO1B1,*1/*15,Decreased Function
+N1DL6434,CACNA1S,Reference/Reference,Uncertain Susceptibility
+N1DL6434,CYP2D6,*2/*2,Normal Metabolizer
+N1DL6434,CYP2C19,*1/*2,Intermediate Metabolizer
+N1DL6434,UGT1A1,*1/*6,Intermediate Metabolizer
+N1DL6434,F5,Reference/Reference,Favorable Response
+N1DL6434,RYR1,Reference/Reference,Uncertain Susceptibility
+N1DL6434,CFTR,Reference/Reference,Indeterminate
+N1DL6434,TPMT,*1/*1,Normal Metabolizer
+N1DL6434,CYP3A5,*3/*3,Poor Metabolizer
+N1DL6434,CYP4F2,*1/*1,Indeterminate

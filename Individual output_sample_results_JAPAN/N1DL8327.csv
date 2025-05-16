@@ -1,0 +1,23 @@
+Sample,Gene Name,Genotype,Phenotype
+N1DL8327,CYP2B6,*1/*9,Intermediate Metabolizer
+N1DL8327,DPYD,Reference/Reference,Normal Metabolizer
+N1DL8327,CYP3A4,*1/*1,Indeterminate
+N1DL8327,NUDT15,*1/*1,Normal Metabolizer
+N1DL8327,IFNL3,Reference/Reference,Favorable Response
+N1DL8327,ABCG2,Reference/rs2231142,Decreased Function
+N1DL8327,CYP2C9,*1/*1,Normal Metabolizer
+N1DL8327,CYP2C8,*1/*1,Indeterminate
+N1DL8327,NAT2,*7/*7,Indeterminate
+N1DL8327,VKORC1,Reference/Reference,Indeterminate
+N1DL8327,G6PD,B/B,Indeterminate
+N1DL8327,SLCO1B1,*1/*37,Normal Function
+N1DL8327,CACNA1S,Reference/Reference,Uncertain Susceptibility
+N1DL8327,CYP2D6,*2/*2,Normal Metabolizer
+N1DL8327,CYP2C19,*2/*2,Poor Metabolizer
+N1DL8327,UGT1A1,*1/*6,Intermediate Metabolizer
+N1DL8327,F5,Reference/Reference,Favorable Response
+N1DL8327,RYR1,Reference/Reference,Uncertain Susceptibility
+N1DL8327,CFTR,Reference/Reference,Indeterminate
+N1DL8327,TPMT,*1/*1,Normal Metabolizer
+N1DL8327,CYP3A5,*3/*3,Poor Metabolizer
+N1DL8327,CYP4F2,*1/*1,Indeterminate

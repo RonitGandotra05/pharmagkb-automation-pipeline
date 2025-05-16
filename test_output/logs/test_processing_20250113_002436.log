@@ -1,0 +1,5 @@
+2025-01-13 00:24:36,999 - INFO - Created output directory: test_output/processed_files
+2025-01-13 00:24:36,999 - INFO - Processing test sample: N1DL5740
+2025-01-13 00:24:36,999 - INFO - Starting to parse CPIC content...
+2025-01-13 00:24:36,999 - INFO - Found 0 CPIC recommendations:
+2025-01-13 00:24:36,999 - WARNING - No recommendations found in the content

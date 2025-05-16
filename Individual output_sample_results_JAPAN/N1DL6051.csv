@@ -1,0 +1,23 @@
+Sample,Gene Name,Genotype,Phenotype
+N1DL6051,CYP2B6,*1/*1,Normal Metabolizer
+N1DL6051,DPYD,Reference/c.1627A>G (*5),Normal Metabolizer
+N1DL6051,CYP3A4,*1/*1,Indeterminate
+N1DL6051,NUDT15,*1/*1,Normal Metabolizer
+N1DL6051,IFNL3,Reference/Reference,Favorable Response
+N1DL6051,ABCG2,Reference/Reference,Normal Function
+N1DL6051,CYP2C9,*1/*1,Normal Metabolizer
+N1DL6051,CYP2C8,*1/*1,Indeterminate
+N1DL6051,NAT2,*6/*12,Indeterminate
+N1DL6051,VKORC1,Reference/Reference,Indeterminate
+N1DL6051,G6PD,B/B,Indeterminate
+N1DL6051,SLCO1B1,*37/*37,Normal Function
+N1DL6051,CACNA1S,Reference/Reference,Uncertain Susceptibility
+N1DL6051,CYP2D6,*2/*2,Normal Metabolizer
+N1DL6051,CYP2C19,*1/*1,Normal Metabolizer
+N1DL6051,UGT1A1,*1/*1,Normal Metabolizer
+N1DL6051,F5,Reference/Reference,Favorable Response
+N1DL6051,RYR1,Reference/Reference,Uncertain Susceptibility
+N1DL6051,CFTR,Reference/Reference,Indeterminate
+N1DL6051,TPMT,*1/*1,Normal Metabolizer
+N1DL6051,CYP3A5,*3/*3,Poor Metabolizer
+N1DL6051,CYP4F2,*1/*3,Indeterminate

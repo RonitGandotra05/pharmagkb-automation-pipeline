@@ -1,0 +1,54 @@
+2025-01-12 03:25:52,675 - ERROR - Major error in processing: 'utf-8' codec can't decode byte 0xa0 in position 2022: invalid start byte
+2025-01-12 03:25:52,676 - ERROR - Processing failed: 'utf-8' codec can't decode byte 0xa0 in position 2022: invalid start byte
+2025-01-12 03:27:09,473 - WARNING - Sample file not found for N1DL5740
+2025-01-12 03:27:09,473 - WARNING - Sample file not found for N1DL6378
+2025-01-12 03:27:09,473 - WARNING - Sample file not found for N1DL6183
+2025-01-12 03:27:09,473 - WARNING - Sample file not found for N1DL7718
+2025-01-12 03:27:09,473 - WARNING - Sample file not found for N1DL6379
+2025-01-12 03:27:09,474 - WARNING - Sample file not found for NURA8336
+2025-01-12 03:27:09,474 - WARNING - Sample file not found for N1DL6585
+2025-01-12 03:27:09,474 - WARNING - Sample file not found for N1DL2032
+2025-01-12 03:27:09,474 - WARNING - Sample file not found for N1DL6310
+2025-01-12 03:27:09,474 - WARNING - Sample file not found for N1DL6434
+2025-01-12 03:27:09,474 - WARNING - Sample file not found for N1DL7459
+2025-01-12 03:27:09,474 - WARNING - Sample file not found for N1DL7717
+2025-01-12 03:27:09,475 - WARNING - Sample file not found for N1DL3100
+2025-01-12 03:27:09,475 - WARNING - Sample file not found for N1DL6051
+2025-01-12 03:27:09,475 - WARNING - Sample file not found for N1DL6182
+2025-01-12 03:27:09,475 - WARNING - Sample file not found for N1DL5548
+2025-01-12 03:27:09,475 - WARNING - Sample file not found for NURA3301
+2025-01-12 03:27:09,475 - WARNING - Sample file not found for N1DL7719
+2025-01-12 03:27:09,475 - WARNING - Sample file not found for N1DL9171
+2025-01-12 03:27:09,476 - WARNING - Sample file not found for N1DL7913
+2025-01-12 03:27:09,476 - WARNING - Sample file not found for N1DL6998
+2025-01-12 03:27:09,476 - WARNING - Sample file not found for NURA4091
+2025-01-12 03:27:09,476 - WARNING - Sample file not found for N1DL8327
+2025-01-12 03:27:09,476 - WARNING - Sample file not found for N1DL6435
+2025-01-12 03:27:09,476 - WARNING - Sample file not found for N1DL7264
+2025-01-12 03:27:09,477 - INFO - Processing completed successfully
+2025-01-12 03:30:02,792 - INFO - Successfully processed N1DL5740
+2025-01-12 03:30:02,924 - INFO - Successfully processed N1DL6378
+2025-01-12 03:30:03,066 - INFO - Successfully processed N1DL6183
+2025-01-12 03:30:03,194 - INFO - Successfully processed N1DL7718
+2025-01-12 03:30:03,326 - INFO - Successfully processed N1DL6379
+2025-01-12 03:30:03,455 - INFO - Successfully processed NURA8336
+2025-01-12 03:30:03,606 - INFO - Successfully processed N1DL6585
+2025-01-12 03:30:03,810 - INFO - Successfully processed N1DL2032
+2025-01-12 03:30:04,013 - INFO - Successfully processed N1DL6310
+2025-01-12 03:30:04,143 - INFO - Successfully processed N1DL6434
+2025-01-12 03:30:04,272 - INFO - Successfully processed N1DL7459
+2025-01-12 03:30:04,406 - INFO - Successfully processed N1DL7717
+2025-01-12 03:30:04,619 - INFO - Successfully processed N1DL3100
+2025-01-12 03:30:04,750 - INFO - Successfully processed N1DL6051
+2025-01-12 03:30:04,881 - INFO - Successfully processed N1DL6182
+2025-01-12 03:30:05,030 - INFO - Successfully processed N1DL5548
+2025-01-12 03:30:05,159 - INFO - Successfully processed NURA3301
+2025-01-12 03:30:05,291 - INFO - Successfully processed N1DL7719
+2025-01-12 03:30:05,440 - INFO - Successfully processed N1DL9171
+2025-01-12 03:30:05,572 - INFO - Successfully processed N1DL7913
+2025-01-12 03:30:05,708 - INFO - Successfully processed N1DL6998
+2025-01-12 03:30:05,846 - INFO - Successfully processed NURA4091
+2025-01-12 03:30:05,991 - INFO - Successfully processed N1DL8327
+2025-01-12 03:30:06,162 - INFO - Successfully processed N1DL6435
+2025-01-12 03:30:06,332 - INFO - Successfully processed N1DL7264
+2025-01-12 03:30:06,335 - INFO - Processing completed successfully

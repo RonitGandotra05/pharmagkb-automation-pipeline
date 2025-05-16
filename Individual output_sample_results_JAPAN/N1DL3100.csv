@@ -1,0 +1,23 @@
+Sample,Gene Name,Genotype,Phenotype
+N1DL3100,CYP2B6,*1/*1,Normal Metabolizer
+N1DL3100,DPYD,Reference/c.1627A>G (*5),Normal Metabolizer
+N1DL3100,CYP3A4,*1/*1,Indeterminate
+N1DL3100,NUDT15,*1/*1,Normal Metabolizer
+N1DL3100,IFNL3,Reference/Reference,Favorable Response
+N1DL3100,ABCG2,Reference/Reference,Normal Function
+N1DL3100,CYP2C9,*1/*1,Normal Metabolizer
+N1DL3100,CYP2C8,*1/*1,Indeterminate
+N1DL3100,NAT2,*6/*6,Indeterminate
+N1DL3100,VKORC1,Reference/Reference,Indeterminate
+N1DL3100,G6PD,B/B,Indeterminate
+N1DL3100,SLCO1B1,*1/*37,Normal Function
+N1DL3100,CACNA1S,Reference/Reference,Uncertain Susceptibility
+N1DL3100,CYP2D6,*2/*2,Normal Metabolizer
+N1DL3100,CYP2C19,*1/*1,Normal Metabolizer
+N1DL3100,UGT1A1,*1/*1,Normal Metabolizer
+N1DL3100,F5,Reference/Reference,Favorable Response
+N1DL3100,RYR1,Reference/Reference,Uncertain Susceptibility
+N1DL3100,CFTR,Reference/Reference,Indeterminate
+N1DL3100,TPMT,*1/*1,Normal Metabolizer
+N1DL3100,CYP3A5,*1/*1,Normal Metabolizer
+N1DL3100,CYP4F2,*1/*1,Indeterminate

@@ -1,0 +1,755 @@
+2025-01-12 05:35:16,862 - INFO - Starting Step 1: Copy Phenotype and Genotype processing
+2025-01-12 05:35:16,866 - INFO - Successfully read main list with latin1 encoding
+2025-01-12 05:35:16,866 - INFO - Found 25 Japan samples to process
+2025-01-12 05:35:16,866 - INFO - 
+Processing sample: N1DL5740
+2025-01-12 05:35:16,868 - INFO - Successfully read CSV file for N1DL5740
+2025-01-12 05:35:16,958 - INFO - Updated header cells
+2025-01-12 05:35:16,959 - INFO - Processing genes for N1DL5740
+2025-01-12 05:35:16,959 - INFO - Updated ABCG2: Genotype=Reference/rs2231142, Phenotype=Decreased Function
+2025-01-12 05:35:16,959 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:16,960 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:16,960 - INFO - Updated CYP2B6: Genotype=*1/*9, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:16,960 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:16,960 - INFO - Updated CYP2C9: Genotype=*1/*29, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:16,960 - INFO - Updated CYP2C19: Genotype=*3/*17, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:16,960 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:16,960 - INFO - Updated CYP3A4: Genotype=*1/*18, Phenotype=Indeterminate
+2025-01-12 05:35:16,960 - INFO - Updated CYP3A5: Genotype=*3/*3, Phenotype=Poor Metabolizer
+2025-01-12 05:35:16,960 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:16,960 - INFO - Updated DPYD: Genotype=Reference/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:16,960 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:16,960 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:16,960 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:16,960 - INFO - Updated NAT2: Genotype=*4/*6, Phenotype=Indeterminate
+2025-01-12 05:35:16,960 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:16,960 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:16,960 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:16,960 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:16,960 - INFO - Updated UGT1A1: Genotype=*1/*6, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:16,960 - INFO - Updated VKORC1: Genotype=Reference/rs9923231, Phenotype=Indeterminate
+2025-01-12 05:35:17,001 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL5740.xlsx
+2025-01-12 05:35:17,102 - INFO - Successfully verified all genes for N1DL5740
+2025-01-12 05:35:17,102 - INFO - Processed 1/25 samples
+2025-01-12 05:35:17,102 - INFO - 
+Processing sample: N1DL6378
+2025-01-12 05:35:17,103 - INFO - Successfully read CSV file for N1DL6378
+2025-01-12 05:35:17,189 - INFO - Updated header cells
+2025-01-12 05:35:17,190 - INFO - Processing genes for N1DL6378
+2025-01-12 05:35:17,190 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:17,190 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:17,190 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:17,190 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,190 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:17,190 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,190 - INFO - Updated CYP2C19: Genotype=*1/*2, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:17,190 - INFO - Updated CYP2D6: Genotype=*2/*41, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,190 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:17,190 - INFO - Updated CYP3A5: Genotype=*3/*3, Phenotype=Poor Metabolizer
+2025-01-12 05:35:17,191 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:17,191 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,191 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:17,191 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:17,191 - INFO - Updated IFNL3: Genotype=rs12979860/rs12980275, Phenotype=Unfavorable Response
+2025-01-12 05:35:17,191 - INFO - Updated NAT2: Genotype=*4/*4, Phenotype=Indeterminate
+2025-01-12 05:35:17,191 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,191 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:17,191 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:17,191 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,191 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,191 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:17,230 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL6378.xlsx
+2025-01-12 05:35:17,329 - INFO - Successfully verified all genes for N1DL6378
+2025-01-12 05:35:17,329 - INFO - Processed 2/25 samples
+2025-01-12 05:35:17,330 - INFO - 
+Processing sample: N1DL6183
+2025-01-12 05:35:17,331 - INFO - Successfully read CSV file for N1DL6183
+2025-01-12 05:35:17,432 - INFO - Updated header cells
+2025-01-12 05:35:17,433 - INFO - Processing genes for N1DL6183
+2025-01-12 05:35:17,433 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:17,434 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:17,434 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:17,434 - INFO - Updated CYP2B6: Genotype=*1/*9, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:17,434 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:17,434 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,434 - INFO - Updated CYP2C19: Genotype=*1/*2, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:17,434 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,434 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:17,434 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:17,434 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:17,434 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,434 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:17,434 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:17,434 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:17,434 - INFO - Updated NAT2: Genotype=*4/*4, Phenotype=Indeterminate
+2025-01-12 05:35:17,434 - INFO - Updated NUDT15: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:17,434 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:17,434 - INFO - Updated SLCO1B1: Genotype=*1/*15, Phenotype=Decreased Function
+2025-01-12 05:35:17,434 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,435 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,435 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:17,488 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL6183.xlsx
+2025-01-12 05:35:17,599 - INFO - Successfully verified all genes for N1DL6183
+2025-01-12 05:35:17,599 - INFO - Processed 3/25 samples
+2025-01-12 05:35:17,599 - INFO - 
+Processing sample: N1DL7718
+2025-01-12 05:35:17,601 - INFO - Successfully read CSV file for N1DL7718
+2025-01-12 05:35:17,698 - INFO - Updated header cells
+2025-01-12 05:35:17,700 - INFO - Processing genes for N1DL7718
+2025-01-12 05:35:17,700 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:17,700 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:17,700 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:17,700 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,700 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:17,700 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,700 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,700 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,700 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:17,700 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:17,700 - INFO - Updated CYP4F2: Genotype=*1/*3, Phenotype=Indeterminate
+2025-01-12 05:35:17,700 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,701 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:17,701 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:17,701 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:17,701 - INFO - Updated NAT2: Genotype=*4/*6, Phenotype=Indeterminate
+2025-01-12 05:35:17,701 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,701 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:17,701 - INFO - Updated SLCO1B1: Genotype=*37/*37, Phenotype=Normal Function
+2025-01-12 05:35:17,701 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,701 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,701 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:17,747 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL7718.xlsx
+2025-01-12 05:35:17,870 - INFO - Successfully verified all genes for N1DL7718
+2025-01-12 05:35:17,870 - INFO - Processed 4/25 samples
+2025-01-12 05:35:17,870 - INFO - 
+Processing sample: N1DL6379
+2025-01-12 05:35:17,872 - INFO - Successfully read CSV file for N1DL6379
+2025-01-12 05:35:17,975 - INFO - Updated header cells
+2025-01-12 05:35:17,976 - INFO - Processing genes for N1DL6379
+2025-01-12 05:35:17,977 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:17,977 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:17,977 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:17,977 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,977 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:17,977 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,977 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,977 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,977 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:17,977 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:17,977 - INFO - Updated CYP4F2: Genotype=*1/*3, Phenotype=Indeterminate
+2025-01-12 05:35:17,977 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,977 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:17,977 - INFO - Updated G6PD: Genotype=B/Rehevot, Phenotype=Indeterminate
+2025-01-12 05:35:17,978 - INFO - Updated IFNL3: Genotype=rs12979860/rs12980275, Phenotype=Unfavorable Response
+2025-01-12 05:35:17,978 - INFO - Updated NAT2: Genotype=*5/*7, Phenotype=Indeterminate
+2025-01-12 05:35:17,978 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,978 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:17,978 - INFO - Updated SLCO1B1: Genotype=*16/*37, Phenotype=Indeterminate
+2025-01-12 05:35:17,978 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,978 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:17,978 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:18,022 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL6379.xlsx
+2025-01-12 05:35:18,194 - INFO - Successfully verified all genes for N1DL6379
+2025-01-12 05:35:18,194 - INFO - Processed 5/25 samples
+2025-01-12 05:35:18,194 - INFO - 
+Processing sample: NURA8336
+2025-01-12 05:35:18,196 - INFO - Successfully read CSV file for NURA8336
+2025-01-12 05:35:18,372 - INFO - Updated header cells
+2025-01-12 05:35:18,373 - INFO - Processing genes for NURA8336
+2025-01-12 05:35:18,374 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:18,374 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:18,374 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:18,374 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,374 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:18,374 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,374 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,374 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,374 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:18,374 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:18,374 - INFO - Updated CYP4F2: Genotype=*1/*3, Phenotype=Indeterminate
+2025-01-12 05:35:18,375 - INFO - Updated DPYD: Genotype=c.85T>C (*9A)/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,375 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:18,375 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:18,375 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:18,375 - INFO - Updated NAT2: Genotype=*4/*7, Phenotype=Indeterminate
+2025-01-12 05:35:18,375 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,375 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:18,375 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:18,375 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,375 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,375 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:18,420 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/NURA8336.xlsx
+2025-01-12 05:35:18,532 - INFO - Successfully verified all genes for NURA8336
+2025-01-12 05:35:18,532 - INFO - Processed 6/25 samples
+2025-01-12 05:35:18,532 - INFO - 
+Processing sample: N1DL6585
+2025-01-12 05:35:18,534 - INFO - Successfully read CSV file for N1DL6585
+2025-01-12 05:35:18,623 - INFO - Updated header cells
+2025-01-12 05:35:18,624 - INFO - Processing genes for N1DL6585
+2025-01-12 05:35:18,624 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:18,624 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:18,624 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:18,624 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,624 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:18,624 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,624 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,624 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,624 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:18,624 - INFO - Updated CYP3A5: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,624 - INFO - Updated CYP4F2: Genotype=*3/*3, Phenotype=Indeterminate
+2025-01-12 05:35:18,624 - INFO - Updated DPYD: Genotype=Reference/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,624 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:18,624 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:18,624 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:18,624 - INFO - Updated NAT2: Genotype=*4/*6, Phenotype=Indeterminate
+2025-01-12 05:35:18,624 - INFO - Updated NUDT15: Genotype=*1/*5, Phenotype=Indeterminate
+2025-01-12 05:35:18,624 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:18,624 - INFO - Updated SLCO1B1: Genotype=*37/*37, Phenotype=Normal Function
+2025-01-12 05:35:18,624 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,624 - INFO - Updated UGT1A1: Genotype=*1/*80, Phenotype=Indeterminate
+2025-01-12 05:35:18,624 - INFO - Updated VKORC1: Genotype=Reference/rs9923231, Phenotype=Indeterminate
+2025-01-12 05:35:18,656 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL6585.xlsx
+2025-01-12 05:35:18,755 - INFO - Successfully verified all genes for N1DL6585
+2025-01-12 05:35:18,755 - INFO - Processed 7/25 samples
+2025-01-12 05:35:18,756 - INFO - 
+Processing sample: N1DL2032
+2025-01-12 05:35:18,757 - INFO - Successfully read CSV file for N1DL2032
+2025-01-12 05:35:18,863 - INFO - Updated header cells
+2025-01-12 05:35:18,865 - INFO - Processing genes for N1DL2032
+2025-01-12 05:35:18,865 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:18,865 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:18,865 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:18,866 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,866 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:18,866 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,866 - INFO - Updated CYP2C19: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:18,866 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,866 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:18,866 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:18,866 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:18,866 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,866 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:18,866 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:18,866 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:18,866 - INFO - Updated NAT2: Genotype=*4/*4, Phenotype=Indeterminate
+2025-01-12 05:35:18,866 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,867 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:18,867 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:18,867 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,867 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:18,867 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:18,914 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL2032.xlsx
+2025-01-12 05:35:19,035 - INFO - Successfully verified all genes for N1DL2032
+2025-01-12 05:35:19,035 - INFO - Processed 8/25 samples
+2025-01-12 05:35:19,036 - INFO - 
+Processing sample: N1DL6310
+2025-01-12 05:35:19,037 - INFO - Successfully read CSV file for N1DL6310
+2025-01-12 05:35:19,149 - INFO - Updated header cells
+2025-01-12 05:35:19,151 - INFO - Processing genes for N1DL6310
+2025-01-12 05:35:19,151 - INFO - Updated ABCG2: Genotype=Reference/rs2231142, Phenotype=Decreased Function
+2025-01-12 05:35:19,151 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:19,151 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:19,151 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,151 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:19,151 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,151 - INFO - Updated CYP2C19: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:19,151 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,151 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:19,151 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:19,151 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:19,152 - INFO - Updated DPYD: Genotype=Reference/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,152 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:19,152 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:19,152 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:19,152 - INFO - Updated NAT2: Genotype=*4/*4, Phenotype=Indeterminate
+2025-01-12 05:35:19,152 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,152 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:19,152 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:19,152 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,152 - INFO - Updated UGT1A1: Genotype=*1/*80, Phenotype=Indeterminate
+2025-01-12 05:35:19,152 - INFO - Updated VKORC1: Genotype=Reference/rs9923231, Phenotype=Indeterminate
+2025-01-12 05:35:19,196 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL6310.xlsx
+2025-01-12 05:35:19,312 - INFO - Successfully verified all genes for N1DL6310
+2025-01-12 05:35:19,312 - INFO - Processed 9/25 samples
+2025-01-12 05:35:19,313 - INFO - 
+Processing sample: N1DL6434
+2025-01-12 05:35:19,315 - INFO - Successfully read CSV file for N1DL6434
+2025-01-12 05:35:19,417 - INFO - Updated header cells
+2025-01-12 05:35:19,419 - INFO - Processing genes for N1DL6434
+2025-01-12 05:35:19,419 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:19,419 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:19,419 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:19,419 - INFO - Updated CYP2B6: Genotype=*1/*9, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:19,419 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:19,419 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,419 - INFO - Updated CYP2C19: Genotype=*1/*2, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:19,420 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,420 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:19,420 - INFO - Updated CYP3A5: Genotype=*3/*3, Phenotype=Poor Metabolizer
+2025-01-12 05:35:19,420 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:19,420 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,420 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:19,420 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:19,420 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:19,420 - INFO - Updated NAT2: Genotype=*6/*7, Phenotype=Indeterminate
+2025-01-12 05:35:19,420 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,420 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:19,420 - INFO - Updated SLCO1B1: Genotype=*1/*15, Phenotype=Decreased Function
+2025-01-12 05:35:19,420 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,420 - INFO - Updated UGT1A1: Genotype=*1/*6, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:19,421 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:19,469 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL6434.xlsx
+2025-01-12 05:35:19,581 - INFO - Successfully verified all genes for N1DL6434
+2025-01-12 05:35:19,581 - INFO - Processed 10/25 samples
+2025-01-12 05:35:19,582 - INFO - 
+Processing sample: N1DL7459
+2025-01-12 05:35:19,583 - INFO - Successfully read CSV file for N1DL7459
+2025-01-12 05:35:19,676 - INFO - Updated header cells
+2025-01-12 05:35:19,677 - INFO - Processing genes for N1DL7459
+2025-01-12 05:35:19,677 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:19,677 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:19,678 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:19,678 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,678 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:19,678 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,678 - INFO - Updated CYP2C19: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:19,678 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,678 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:19,678 - INFO - Updated CYP3A5: Genotype=*3/*3, Phenotype=Poor Metabolizer
+2025-01-12 05:35:19,678 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:19,678 - INFO - Updated DPYD: Genotype=Reference/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,678 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:19,678 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:19,678 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:19,678 - INFO - Updated NAT2: Genotype=*4/*4, Phenotype=Indeterminate
+2025-01-12 05:35:19,678 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,678 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:19,678 - INFO - Updated SLCO1B1: Genotype=*1/*16, Phenotype=Indeterminate
+2025-01-12 05:35:19,678 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,678 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:19,679 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:19,790 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL7459.xlsx
+2025-01-12 05:35:19,901 - INFO - Successfully verified all genes for N1DL7459
+2025-01-12 05:35:19,901 - INFO - Processed 11/25 samples
+2025-01-12 05:35:19,901 - INFO - 
+Processing sample: N1DL7717
+2025-01-12 05:35:19,903 - INFO - Successfully read CSV file for N1DL7717
+2025-01-12 05:35:20,004 - INFO - Updated header cells
+2025-01-12 05:35:20,006 - INFO - Processing genes for N1DL7717
+2025-01-12 05:35:20,006 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:20,006 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:20,006 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:20,006 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,006 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:20,006 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,006 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,006 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,006 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:20,007 - INFO - Updated CYP3A5: Genotype=*3/*3, Phenotype=Poor Metabolizer
+2025-01-12 05:35:20,007 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:20,007 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,007 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:20,007 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:20,007 - INFO - Updated IFNL3: Genotype=rs12979860/rs12980275, Phenotype=Unfavorable Response
+2025-01-12 05:35:20,007 - INFO - Updated NAT2: Genotype=*4/*4, Phenotype=Indeterminate
+2025-01-12 05:35:20,007 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,007 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:20,007 - INFO - Updated SLCO1B1: Genotype=*15/*37, Phenotype=Decreased Function
+2025-01-12 05:35:20,007 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,007 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,008 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:20,058 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL7717.xlsx
+2025-01-12 05:35:20,179 - INFO - Successfully verified all genes for N1DL7717
+2025-01-12 05:35:20,179 - INFO - Processed 12/25 samples
+2025-01-12 05:35:20,180 - INFO - 
+Processing sample: N1DL3100
+2025-01-12 05:35:20,182 - INFO - Successfully read CSV file for N1DL3100
+2025-01-12 05:35:20,289 - INFO - Updated header cells
+2025-01-12 05:35:20,290 - INFO - Processing genes for N1DL3100
+2025-01-12 05:35:20,290 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:20,290 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:20,290 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:20,290 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,290 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:20,290 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,290 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,290 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,290 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:20,290 - INFO - Updated CYP3A5: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,291 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:20,291 - INFO - Updated DPYD: Genotype=Reference/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,291 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:20,291 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:20,291 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:20,291 - INFO - Updated NAT2: Genotype=*6/*6, Phenotype=Indeterminate
+2025-01-12 05:35:20,291 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,291 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:20,291 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:20,291 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,291 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,291 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:20,338 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL3100.xlsx
+2025-01-12 05:35:20,460 - INFO - Successfully verified all genes for N1DL3100
+2025-01-12 05:35:20,460 - INFO - Processed 13/25 samples
+2025-01-12 05:35:20,460 - INFO - 
+Processing sample: N1DL6051
+2025-01-12 05:35:20,463 - INFO - Successfully read CSV file for N1DL6051
+2025-01-12 05:35:20,571 - INFO - Updated header cells
+2025-01-12 05:35:20,573 - INFO - Processing genes for N1DL6051
+2025-01-12 05:35:20,573 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:20,573 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:20,573 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:20,573 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,573 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:20,573 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,573 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,573 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,573 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:20,573 - INFO - Updated CYP3A5: Genotype=*3/*3, Phenotype=Poor Metabolizer
+2025-01-12 05:35:20,574 - INFO - Updated CYP4F2: Genotype=*1/*3, Phenotype=Indeterminate
+2025-01-12 05:35:20,574 - INFO - Updated DPYD: Genotype=Reference/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,574 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:20,574 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:20,574 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:20,574 - INFO - Updated NAT2: Genotype=*6/*12, Phenotype=Indeterminate
+2025-01-12 05:35:20,574 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,574 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:20,574 - INFO - Updated SLCO1B1: Genotype=*37/*37, Phenotype=Normal Function
+2025-01-12 05:35:20,574 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,574 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,574 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:20,628 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL6051.xlsx
+2025-01-12 05:35:20,759 - INFO - Successfully verified all genes for N1DL6051
+2025-01-12 05:35:20,759 - INFO - Processed 14/25 samples
+2025-01-12 05:35:20,760 - INFO - 
+Processing sample: N1DL6182
+2025-01-12 05:35:20,761 - INFO - Successfully read CSV file for N1DL6182
+2025-01-12 05:35:20,861 - INFO - Updated header cells
+2025-01-12 05:35:20,862 - INFO - Processing genes for N1DL6182
+2025-01-12 05:35:20,863 - INFO - Updated ABCG2: Genotype=rs2231142/rs2231142, Phenotype=Poor Function
+2025-01-12 05:35:20,863 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:20,863 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:20,863 - INFO - Updated CYP2B6: Genotype=*1/*9, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:20,863 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:20,863 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,863 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,863 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,863 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:20,863 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:20,863 - INFO - Updated CYP4F2: Genotype=*3/*3, Phenotype=Indeterminate
+2025-01-12 05:35:20,863 - INFO - Updated DPYD: Genotype=Reference/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,863 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:20,863 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:20,863 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:20,863 - INFO - Updated NAT2: Genotype=*4/*12, Phenotype=Indeterminate
+2025-01-12 05:35:20,863 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,863 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:20,863 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:20,863 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,863 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:20,864 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:20,908 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL6182.xlsx
+2025-01-12 05:35:21,027 - INFO - Successfully verified all genes for N1DL6182
+2025-01-12 05:35:21,027 - INFO - Processed 15/25 samples
+2025-01-12 05:35:21,027 - INFO - 
+Processing sample: N1DL5548
+2025-01-12 05:35:21,029 - INFO - Successfully read CSV file for N1DL5548
+2025-01-12 05:35:21,195 - INFO - Updated header cells
+2025-01-12 05:35:21,196 - INFO - Processing genes for N1DL5548
+2025-01-12 05:35:21,196 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:21,197 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:21,197 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:21,197 - INFO - Updated CYP2B6: Genotype=*1/*9, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:21,197 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:21,197 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,197 - INFO - Updated CYP2C19: Genotype=*2/*2, Phenotype=Poor Metabolizer
+2025-01-12 05:35:21,197 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,197 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:21,197 - INFO - Updated CYP3A5: Genotype=*3/*3, Phenotype=Poor Metabolizer
+2025-01-12 05:35:21,197 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:21,197 - INFO - Updated DPYD: Genotype=Reference/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,197 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:21,197 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:21,197 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:21,198 - INFO - Updated NAT2: Genotype=*4/*4, Phenotype=Indeterminate
+2025-01-12 05:35:21,198 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,198 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:21,198 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:21,198 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,198 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,198 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:21,248 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL5548.xlsx
+2025-01-12 05:35:21,418 - INFO - Successfully verified all genes for N1DL5548
+2025-01-12 05:35:21,418 - INFO - Processed 16/25 samples
+2025-01-12 05:35:21,418 - INFO - 
+Processing sample: NURA3301
+2025-01-12 05:35:21,420 - INFO - Successfully read CSV file for NURA3301
+2025-01-12 05:35:21,511 - INFO - Updated header cells
+2025-01-12 05:35:21,513 - INFO - Processing genes for NURA3301
+2025-01-12 05:35:21,513 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:21,513 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:21,513 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:21,513 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,513 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:21,513 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,513 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,513 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,513 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:21,513 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:21,513 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:21,513 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,513 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:21,514 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:21,514 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:21,514 - INFO - Updated NAT2: Genotype=*4/*4, Phenotype=Indeterminate
+2025-01-12 05:35:21,514 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,514 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:21,514 - INFO - Updated SLCO1B1: Genotype=*1/*1, Phenotype=Normal Function
+2025-01-12 05:35:21,514 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,514 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,514 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:21,558 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/NURA3301.xlsx
+2025-01-12 05:35:21,664 - INFO - Successfully verified all genes for NURA3301
+2025-01-12 05:35:21,664 - INFO - Processed 17/25 samples
+2025-01-12 05:35:21,665 - INFO - 
+Processing sample: N1DL7719
+2025-01-12 05:35:21,666 - INFO - Successfully read CSV file for N1DL7719
+2025-01-12 05:35:21,773 - INFO - Updated header cells
+2025-01-12 05:35:21,774 - INFO - Processing genes for N1DL7719
+2025-01-12 05:35:21,774 - INFO - Updated ABCG2: Genotype=rs2231142/rs2231142, Phenotype=Poor Function
+2025-01-12 05:35:21,774 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:21,774 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:21,775 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,775 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:21,775 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,775 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,775 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,775 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:21,775 - INFO - Updated CYP3A5: Genotype=*3/*3, Phenotype=Poor Metabolizer
+2025-01-12 05:35:21,775 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:21,775 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,775 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:21,775 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:21,775 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:21,775 - INFO - Updated NAT2: Genotype=*4/*6, Phenotype=Indeterminate
+2025-01-12 05:35:21,775 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,775 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:21,776 - INFO - Updated SLCO1B1: Genotype=*1/*1, Phenotype=Normal Function
+2025-01-12 05:35:21,776 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,776 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:21,776 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:21,821 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL7719.xlsx
+2025-01-12 05:35:21,935 - INFO - Successfully verified all genes for N1DL7719
+2025-01-12 05:35:21,935 - INFO - Processed 18/25 samples
+2025-01-12 05:35:21,935 - INFO - 
+Processing sample: N1DL9171
+2025-01-12 05:35:21,937 - INFO - Successfully read CSV file for N1DL9171
+2025-01-12 05:35:22,046 - INFO - Updated header cells
+2025-01-12 05:35:22,047 - INFO - Processing genes for N1DL9171
+2025-01-12 05:35:22,048 - INFO - Updated ABCG2: Genotype=Reference/rs2231142, Phenotype=Decreased Function
+2025-01-12 05:35:22,048 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:22,048 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:22,048 - INFO - Updated CYP2B6: Genotype=*1/*9, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:22,048 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:22,048 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,048 - INFO - Updated CYP2C19: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:22,048 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,048 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:22,048 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:22,048 - INFO - Updated CYP4F2: Genotype=*1/*3, Phenotype=Indeterminate
+2025-01-12 05:35:22,048 - INFO - Updated DPYD: Genotype=Reference/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,048 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:22,048 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:22,049 - INFO - Updated IFNL3: Genotype=Reference/rs12980275, Phenotype=Indeterminate
+2025-01-12 05:35:22,049 - INFO - Updated NAT2: Genotype=*6/*6, Phenotype=Indeterminate
+2025-01-12 05:35:22,049 - INFO - Updated NUDT15: Genotype=*3/*3, Phenotype=Poor Metabolizer
+2025-01-12 05:35:22,049 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:22,049 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:22,049 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,049 - INFO - Updated UGT1A1: Genotype=*1/*6, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:22,049 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:22,095 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL9171.xlsx
+2025-01-12 05:35:22,211 - INFO - Successfully verified all genes for N1DL9171
+2025-01-12 05:35:22,211 - INFO - Processed 19/25 samples
+2025-01-12 05:35:22,212 - INFO - 
+Processing sample: N1DL7913
+2025-01-12 05:35:22,214 - INFO - Successfully read CSV file for N1DL7913
+2025-01-12 05:35:22,313 - INFO - Updated header cells
+2025-01-12 05:35:22,314 - INFO - Processing genes for N1DL7913
+2025-01-12 05:35:22,315 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:22,315 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:22,315 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:22,315 - INFO - Updated CYP2B6: Genotype=*1/*9, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:22,315 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:22,315 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,315 - INFO - Updated CYP2C19: Genotype=*1/*2, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:22,315 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,315 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:22,315 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:22,315 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:22,315 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,315 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:22,316 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:22,316 - INFO - Updated IFNL3: Genotype=Reference/rs12980275, Phenotype=Indeterminate
+2025-01-12 05:35:22,316 - INFO - Updated NAT2: Genotype=*4/*6, Phenotype=Indeterminate
+2025-01-12 05:35:22,316 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,316 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:22,316 - INFO - Updated SLCO1B1: Genotype=*37/*37, Phenotype=Normal Function
+2025-01-12 05:35:22,316 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,316 - INFO - Updated UGT1A1: Genotype=*1/*6, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:22,316 - INFO - Updated VKORC1: Genotype=rs9923231/rs9923231, Phenotype=Indeterminate
+2025-01-12 05:35:22,361 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL7913.xlsx
+2025-01-12 05:35:22,481 - INFO - Successfully verified all genes for N1DL7913
+2025-01-12 05:35:22,482 - INFO - Processed 20/25 samples
+2025-01-12 05:35:22,482 - INFO - 
+Processing sample: N1DL6998
+2025-01-12 05:35:22,484 - INFO - Successfully read CSV file for N1DL6998
+2025-01-12 05:35:22,615 - INFO - Updated header cells
+2025-01-12 05:35:22,616 - INFO - Processing genes for N1DL6998
+2025-01-12 05:35:22,616 - INFO - Updated ABCG2: Genotype=Reference/rs2231142, Phenotype=Decreased Function
+2025-01-12 05:35:22,616 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:22,616 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:22,617 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,617 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:22,617 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,617 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,617 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,617 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:22,617 - INFO - Updated CYP3A5: Genotype=*3/*3, Phenotype=Poor Metabolizer
+2025-01-12 05:35:22,617 - INFO - Updated CYP4F2: Genotype=*1/*3, Phenotype=Indeterminate
+2025-01-12 05:35:22,617 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,617 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:22,617 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:22,617 - INFO - Updated IFNL3: Genotype=rs12979860/rs12980275, Phenotype=Unfavorable Response
+2025-01-12 05:35:22,617 - INFO - Updated NAT2: Genotype=*4/*4, Phenotype=Indeterminate
+2025-01-12 05:35:22,617 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,618 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:22,618 - INFO - Updated SLCO1B1: Genotype=*1/*16, Phenotype=Indeterminate
+2025-01-12 05:35:22,618 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,618 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,618 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:22,665 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL6998.xlsx
+2025-01-12 05:35:22,783 - INFO - Successfully verified all genes for N1DL6998
+2025-01-12 05:35:22,783 - INFO - Processed 21/25 samples
+2025-01-12 05:35:22,783 - INFO - 
+Processing sample: NURA4091
+2025-01-12 05:35:22,785 - INFO - Successfully read CSV file for NURA4091
+2025-01-12 05:35:22,898 - INFO - Updated header cells
+2025-01-12 05:35:22,899 - INFO - Processing genes for NURA4091
+2025-01-12 05:35:22,899 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:22,899 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:22,899 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:22,900 - INFO - Updated CYP2B6: Genotype=*1/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,900 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:22,900 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,900 - INFO - Updated CYP2C19: Genotype=*1/*2, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:22,900 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,900 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:22,900 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:22,900 - INFO - Updated CYP4F2: Genotype=*1/*3, Phenotype=Indeterminate
+2025-01-12 05:35:22,900 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,900 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:22,900 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:22,900 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:22,900 - INFO - Updated NAT2: Genotype=*4/*6, Phenotype=Indeterminate
+2025-01-12 05:35:22,900 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,901 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:22,901 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:22,901 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,901 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:22,901 - INFO - Updated VKORC1: Genotype=Reference/rs9923231, Phenotype=Indeterminate
+2025-01-12 05:35:23,033 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/NURA4091.xlsx
+2025-01-12 05:35:23,142 - INFO - Successfully verified all genes for NURA4091
+2025-01-12 05:35:23,142 - INFO - Processed 22/25 samples
+2025-01-12 05:35:23,143 - INFO - 
+Processing sample: N1DL8327
+2025-01-12 05:35:23,145 - INFO - Successfully read CSV file for N1DL8327
+2025-01-12 05:35:23,243 - INFO - Updated header cells
+2025-01-12 05:35:23,245 - INFO - Processing genes for N1DL8327
+2025-01-12 05:35:23,245 - INFO - Updated ABCG2: Genotype=Reference/rs2231142, Phenotype=Decreased Function
+2025-01-12 05:35:23,245 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:23,245 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:23,245 - INFO - Updated CYP2B6: Genotype=*1/*9, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:23,245 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:23,245 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,245 - INFO - Updated CYP2C19: Genotype=*2/*2, Phenotype=Poor Metabolizer
+2025-01-12 05:35:23,245 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,245 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:23,246 - INFO - Updated CYP3A5: Genotype=*3/*3, Phenotype=Poor Metabolizer
+2025-01-12 05:35:23,246 - INFO - Updated CYP4F2: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:23,246 - INFO - Updated DPYD: Genotype=Reference/Reference, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,246 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:23,246 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:23,246 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:23,246 - INFO - Updated NAT2: Genotype=*7/*7, Phenotype=Indeterminate
+2025-01-12 05:35:23,246 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,246 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:23,246 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:23,246 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,246 - INFO - Updated UGT1A1: Genotype=*1/*6, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:23,246 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:23,290 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL8327.xlsx
+2025-01-12 05:35:23,384 - INFO - Successfully verified all genes for N1DL8327
+2025-01-12 05:35:23,384 - INFO - Processed 23/25 samples
+2025-01-12 05:35:23,385 - INFO - 
+Processing sample: N1DL6435
+2025-01-12 05:35:23,386 - INFO - Successfully read CSV file for N1DL6435
+2025-01-12 05:35:23,492 - INFO - Updated header cells
+2025-01-12 05:35:23,494 - INFO - Processing genes for N1DL6435
+2025-01-12 05:35:23,494 - INFO - Updated ABCG2: Genotype=Reference/rs2231142, Phenotype=Decreased Function
+2025-01-12 05:35:23,495 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:23,495 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:23,495 - INFO - Updated CYP2B6: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,495 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:23,495 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,495 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,495 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,495 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:23,495 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:23,495 - INFO - Updated CYP4F2: Genotype=*1/*3, Phenotype=Indeterminate
+2025-01-12 05:35:23,495 - INFO - Updated DPYD: Genotype=Reference/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,495 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:23,495 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:23,495 - INFO - Updated IFNL3: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:23,496 - INFO - Updated NAT2: Genotype=*4/*4, Phenotype=Indeterminate
+2025-01-12 05:35:23,496 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,496 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:23,496 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:23,496 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,496 - INFO - Updated UGT1A1: Genotype=*1/*80, Phenotype=Indeterminate
+2025-01-12 05:35:23,496 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:23,544 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL6435.xlsx
+2025-01-12 05:35:23,671 - INFO - Successfully verified all genes for N1DL6435
+2025-01-12 05:35:23,672 - INFO - Processed 24/25 samples
+2025-01-12 05:35:23,672 - INFO - 
+Processing sample: N1DL7264
+2025-01-12 05:35:23,674 - INFO - Successfully read CSV file for N1DL7264
+2025-01-12 05:35:23,837 - INFO - Updated header cells
+2025-01-12 05:35:23,839 - INFO - Processing genes for N1DL7264
+2025-01-12 05:35:23,839 - INFO - Updated ABCG2: Genotype=Reference/Reference, Phenotype=Normal Function
+2025-01-12 05:35:23,839 - INFO - Updated CACNA1S: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:23,839 - INFO - Updated CFTR: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:23,839 - INFO - Updated CYP2B6: Genotype=*1/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,839 - INFO - Updated CYP2C8: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:23,839 - INFO - Updated CYP2C9: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,839 - INFO - Updated CYP2C19: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,839 - INFO - Updated CYP2D6: Genotype=*2/*2, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,839 - INFO - Updated CYP3A4: Genotype=*1/*1, Phenotype=Indeterminate
+2025-01-12 05:35:23,839 - INFO - Updated CYP3A5: Genotype=*1/*3, Phenotype=Intermediate Metabolizer
+2025-01-12 05:35:23,839 - INFO - Updated CYP4F2: Genotype=*1/*3, Phenotype=Indeterminate
+2025-01-12 05:35:23,839 - INFO - Updated DPYD: Genotype=Reference/c.1627A>G (*5), Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,839 - INFO - Updated F5: Genotype=Reference/Reference, Phenotype=Favorable Response
+2025-01-12 05:35:23,839 - INFO - Updated G6PD: Genotype=B/B, Phenotype=Indeterminate
+2025-01-12 05:35:23,839 - INFO - Updated IFNL3: Genotype=rs8099917/rs12980275, Phenotype=Indeterminate
+2025-01-12 05:35:23,839 - INFO - Updated NAT2: Genotype=*4/*7, Phenotype=Indeterminate
+2025-01-12 05:35:23,840 - INFO - Updated NUDT15: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,840 - INFO - Updated RYR1: Genotype=Reference/Reference, Phenotype=Uncertain Susceptibility
+2025-01-12 05:35:23,840 - INFO - Updated SLCO1B1: Genotype=*1/*37, Phenotype=Normal Function
+2025-01-12 05:35:23,840 - INFO - Updated TPMT: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,840 - INFO - Updated UGT1A1: Genotype=*1/*1, Phenotype=Normal Metabolizer
+2025-01-12 05:35:23,840 - INFO - Updated VKORC1: Genotype=Reference/Reference, Phenotype=Indeterminate
+2025-01-12 05:35:23,884 - INFO - Saved output file: step1_phenotype_genotype_output/processed_files/N1DL7264.xlsx
+2025-01-12 05:35:23,983 - INFO - Successfully verified all genes for N1DL7264
+2025-01-12 05:35:23,984 - INFO - Processed 25/25 samples
+2025-01-12 05:35:23,984 - INFO - Step 1 processing completed
+2025-01-12 05:35:23,984 - INFO - Processing report saved to: step1_phenotype_genotype_output/processing_report.txt

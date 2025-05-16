@@ -1,0 +1,23 @@
+Sample,Gene Name,Genotype,Phenotype
+N1DL6183,CYP2B6,*1/*9,Intermediate Metabolizer
+N1DL6183,DPYD,Reference/Reference,Normal Metabolizer
+N1DL6183,CYP3A4,*1/*1,Indeterminate
+N1DL6183,NUDT15,*1/*3,Intermediate Metabolizer
+N1DL6183,IFNL3,Reference/Reference,Favorable Response
+N1DL6183,ABCG2,Reference/Reference,Normal Function
+N1DL6183,CYP2C9,*1/*1,Normal Metabolizer
+N1DL6183,CYP2C8,*1/*1,Indeterminate
+N1DL6183,NAT2,*4/*4,Indeterminate
+N1DL6183,VKORC1,Reference/Reference,Indeterminate
+N1DL6183,G6PD,B/B,Indeterminate
+N1DL6183,SLCO1B1,*1/*15,Decreased Function
+N1DL6183,CACNA1S,Reference/Reference,Uncertain Susceptibility
+N1DL6183,CYP2D6,*2/*2,Normal Metabolizer
+N1DL6183,CYP2C19,*1/*2,Intermediate Metabolizer
+N1DL6183,UGT1A1,*1/*1,Normal Metabolizer
+N1DL6183,F5,Reference/Reference,Favorable Response
+N1DL6183,RYR1,Reference/Reference,Uncertain Susceptibility
+N1DL6183,CFTR,Reference/Reference,Indeterminate
+N1DL6183,TPMT,*1/*1,Normal Metabolizer
+N1DL6183,CYP3A5,*1/*3,Intermediate Metabolizer
+N1DL6183,CYP4F2,*1/*1,Indeterminate

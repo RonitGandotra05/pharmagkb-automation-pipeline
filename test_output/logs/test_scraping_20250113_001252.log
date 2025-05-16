@@ -1,0 +1,14 @@
+2025-01-13 00:12:52,018 - INFO - Starting test scraper process...
+2025-01-13 00:12:52,018 - INFO - Initializing PharmGKB Scraper for test sample: N1DL5740
+2025-01-13 00:12:52,018 - INFO - Output directory created: test_output/scraped_content
+2025-01-13 00:12:52,018 - INFO - Starting test scrape for sample: N1DL5740
+2025-01-13 00:12:52,021 - INFO - Found URL for sample N1DL5740: https://www.pharmgkb.org/genotypeResults?q=%7B%22CYP2B6%22%3A%20%5B%22%2A1%22%2C%20%22%2A9%22%5D%2C%20%22DPYD%22%3A%20%5B%22Reference%22%2C%20%22c.1627A%3EG%20%28%2A5%29%22%5D%2C%20%22CYP3A4%22%3A%20%5B%22%2A1%22%2C%20%22%2A18%22%5D%2C%20%22NUDT15%22%3A%20%5B%22%2A1%22%2C%20%22%2A1%22%5D%2C%20%22IFNL3%22%3A%20%5B%22Reference%22%2C%20%22Reference%22%5D%2C%20%22ABCG2%22%3A%20%5B%22Reference%22%2C%20%22rs2231142%22%5D%2C%20%22CYP2C9%22%3A%20%5B%22%2A1%22%2C%20%22%2A29%22%5D%2C%20%22CYP2C8%22%3A%20%5B%22%2A1%22%2C%20%22%2A1%22%5D%2C%20%22NAT2%22%3A%20%5B%22%2A4%22%2C%20%22%2A6%22%5D%2C%20%22VKORC1%22%3A%20%5B%22Reference%22%2C%20%22rs9923231%22%5D%2C%20%22G6PD%22%3A%20%5B%22B%22%2C%20%22B%22%5D%2C%20%22SLCO1B1%22%3A%20%5B%22%2A1%22%2C%20%22%2A37%22%5D%2C%20%22CACNA1S%22%3A%20%5B%22Reference%22%2C%20%22Reference%22%5D%2C%20%22CYP2D6%22%3A%20%5B%22%2A2%22%2C%20%22%2A2%22%5D%2C%20%22CYP2C19%22%3A%20%5B%22%2A3%22%2C%20%22%2A17%22%5D%2C%20%22UGT1A1%22%3A%20%5B%22%2A1%22%2C%20%22%2A6%22%5D%2C%20%22F5%22%3A%20%5B%22Reference%22%2C%20%22Reference%22%5D%2C%20%22RYR1%22%3A%20%5B%22Reference%22%2C%20%22Reference%22%5D%2C%20%22CFTR%22%3A%20%5B%22Reference%22%2C%20%22Reference%22%5D%2C%20%22TPMT%22%3A%20%5B%22%2A1%22%2C%20%22%2A1%22%5D%2C%20%22CYP3A5%22%3A%20%5B%22%2A3%22%2C%20%22%2A3%22%5D%2C%20%22CYP4F2%22%3A%20%5B%22%2A1%22%2C%20%22%2A1%22%5D%7D
+2025-01-13 00:12:52,021 - INFO - ====== WebDriver manager ======
+2025-01-13 00:12:52,123 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-13 00:12:52,453 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-13 00:12:52,758 - INFO - Driver [/home/ronit-gandotra/.wdm/drivers/chromedriver/linux64/131.0.6778.264/chromedriver-linux64/chromedriver] found in cache
+2025-01-13 00:13:02,414 - INFO - Waiting for page content to load...
+2025-01-13 00:13:22,790 - INFO - Processing content...
+2025-01-13 00:13:22,792 - INFO - Successfully saved processed content to test_output/scraped_content/N1DL5740_processed_content_20250113_001322.txt
+2025-01-13 00:13:22,792 - INFO - Successfully processed test sample N1DL5740
+2025-01-13 00:13:22,865 - INFO - Test scraping completed successfully!

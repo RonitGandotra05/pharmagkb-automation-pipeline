@@ -1,0 +1,1554 @@
+2025-01-12 23:41:15,806 - INFO - Created output directory: test_output/processed_files
+2025-01-12 23:41:15,806 - INFO - 
+Processing test sample: N1DL5740
+2025-01-12 23:41:59,398 - INFO - Starting to parse CPIC content...
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: cpic learn more about cpic
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: dpwg learn more about dpwg
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: fda label annotations learn more about fda
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: fda table of pharmacogenetic associations learn more about fda
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: atazanavir
+2025-01-12 23:41:59,398 - INFO - Found CPIC recommendation for atazanavir
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: atomoxetine
+2025-01-12 23:41:59,398 - INFO - Found CPIC recommendation for atomoxetine
+2025-01-12 23:41:59,398 - INFO - Added dosing_info recommendation for atomoxetine
+2025-01-12 23:41:59,398 - INFO - Added dosing_info recommendation for atomoxetine
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: see the full table
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: avatrombopag
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,398 - INFO - Processing section for drug: brivaracetam
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: citalopram
+2025-01-12 23:41:59,399 - INFO - Found CPIC recommendation for citalopram
+2025-01-12 23:41:59,399 - INFO - Added dosing_info recommendation for citalopram
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the full table
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: clobazam
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: clopidogrel
+2025-01-12 23:41:59,399 - INFO - Found CPIC recommendation for clopidogrel
+2025-01-12 23:41:59,399 - INFO - Added alternate_drug recommendation for clopidogrel
+2025-01-12 23:41:59,399 - INFO - Added alternate_drug recommendation for clopidogrel
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: desflurane
+2025-01-12 23:41:59,399 - INFO - Found CPIC recommendation for desflurane
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: dexlansoprazole
+2025-01-12 23:41:59,399 - INFO - Found CPIC recommendation for dexlansoprazole
+2025-01-12 23:41:59,399 - INFO - Added dosing_info recommendation for dexlansoprazole
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: doxepin
+2025-01-12 23:41:59,399 - INFO - Found CPIC recommendation for doxepin
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the full table
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: dronabinol
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: efavirenz
+2025-01-12 23:41:59,399 - INFO - Found CPIC recommendation for efavirenz
+2025-01-12 23:41:59,399 - INFO - Added dosing_info recommendation for efavirenz
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: see the full table
+2025-01-12 23:41:59,399 - INFO - Processing section for drug: eliglustat
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: enflurane
+2025-01-12 23:41:59,400 - INFO - Found CPIC recommendation for enflurane
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: escitalopram
+2025-01-12 23:41:59,400 - INFO - Found CPIC recommendation for escitalopram
+2025-01-12 23:41:59,400 - INFO - Added dosing_info recommendation for escitalopram
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: fluvastatin
+2025-01-12 23:41:59,400 - INFO - Found CPIC recommendation for fluvastatin
+2025-01-12 23:41:59,400 - INFO - Added alternate_drug recommendation for fluvastatin
+2025-01-12 23:41:59,400 - INFO - Added dosing_info recommendation for fluvastatin
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: fosphenytoin
+2025-01-12 23:41:59,400 - INFO - Found CPIC recommendation for fosphenytoin
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: halothane
+2025-01-12 23:41:59,400 - INFO - Found CPIC recommendation for halothane
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: irinotecan
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: isoflurane
+2025-01-12 23:41:59,400 - INFO - Found CPIC recommendation for isoflurane
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: lansoprazole
+2025-01-12 23:41:59,400 - INFO - Found CPIC recommendation for lansoprazole
+2025-01-12 23:41:59,400 - INFO - Added dosing_info recommendation for lansoprazole
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: see the full table
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: mavacamten
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: meclizine
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: see the full table
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: methoxyflurane
+2025-01-12 23:41:59,400 - INFO - Found CPIC recommendation for methoxyflurane
+2025-01-12 23:41:59,400 - INFO - Processing section for drug: omeprazole
+2025-01-12 23:41:59,400 - INFO - Found CPIC recommendation for omeprazole
+2025-01-12 23:41:59,400 - INFO - Added dosing_info recommendation for omeprazole
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: pantoprazole
+2025-01-12 23:41:59,401 - INFO - Found CPIC recommendation for pantoprazole
+2025-01-12 23:41:59,401 - INFO - Added dosing_info recommendation for pantoprazole
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: phenytoin
+2025-01-12 23:41:59,401 - INFO - Found CPIC recommendation for phenytoin
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: piroxicam
+2025-01-12 23:41:59,401 - INFO - Found CPIC recommendation for piroxicam
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: sertraline
+2025-01-12 23:41:59,401 - INFO - Found CPIC recommendation for sertraline
+2025-01-12 23:41:59,401 - INFO - Added dosing_info recommendation for sertraline
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: sevoflurane
+2025-01-12 23:41:59,401 - INFO - Found CPIC recommendation for sevoflurane
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: siponimod
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: succinylcholine
+2025-01-12 23:41:59,401 - INFO - Found CPIC recommendation for succinylcholine
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: tamoxifen
+2025-01-12 23:41:59,401 - INFO - Found CPIC recommendation for tamoxifen
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the full table
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: tetrabenazine
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the full table
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: voriconazole
+2025-01-12 23:41:59,401 - INFO - Found CPIC recommendation for voriconazole
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: warfarin
+2025-01-12 23:41:59,401 - INFO - Processing section for drug: please see guideline
+2025-01-12 23:41:59,402 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,402 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,402 - INFO - Processing section for drug: see the annotation for more details
+2025-01-12 23:41:59,402 - INFO - Processing section for drug: see the full table
+2025-01-12 23:41:59,402 - INFO - Found 12 CPIC recommendations:
+2025-01-12 23:41:59,402 - INFO - - atomoxetine: dosing_info
+2025-01-12 23:41:59,402 - INFO - - citalopram: dosing_info
+2025-01-12 23:41:59,402 - INFO - - clopidogrel: alternate_drug
+2025-01-12 23:41:59,402 - INFO - - dexlansoprazole: dosing_info
+2025-01-12 23:41:59,402 - INFO - - efavirenz: dosing_info
+2025-01-12 23:41:59,402 - INFO - - escitalopram: dosing_info
+2025-01-12 23:41:59,402 - INFO - - fluvastatin: dosing_info
+2025-01-12 23:41:59,402 - INFO - - fluvastatin: alternate_drug
+2025-01-12 23:41:59,402 - INFO - - lansoprazole: dosing_info
+2025-01-12 23:41:59,402 - INFO - - omeprazole: dosing_info
+2025-01-12 23:41:59,402 - INFO - - pantoprazole: dosing_info
+2025-01-12 23:41:59,402 - INFO - - sertraline: dosing_info
+2025-01-12 23:41:59,402 - INFO - Processing recommendations for sample N1DL5740
+2025-01-12 23:41:59,402 - INFO - Copied original file to: test_output/processed_files/N1DL5740.xlsx
+2025-01-12 23:41:59,476 - INFO - 
+Processing recommendations for drug: atomoxetine (Actions: {'dosing_info'})
+2025-01-12 23:41:59,477 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:41:59,478 - INFO - Checking row 9, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:41:59,479 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-12 23:41:59,481 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-12 23:41:59,482 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-12 23:41:59,484 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-12 23:41:59,486 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-12 23:41:59,487 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-12 23:41:59,489 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-12 23:41:59,491 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-12 23:41:59,492 - INFO - Checking row 18, Column C content: Fluvastatin
+2025-01-12 23:41:59,494 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-12 23:41:59,495 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-12 23:41:59,497 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-12 23:41:59,499 - INFO - Checking row 22, Column C content: Clopidogrel
+2025-01-12 23:41:59,501 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-12 23:41:59,502 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-12 23:41:59,504 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-12 23:41:59,506 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-12 23:41:59,507 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-12 23:41:59,509 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-12 23:41:59,511 - INFO - Checking row 29, Column C content: Dexlansoprazole         Lansoprazole                            Pantoprazole                Omeprazole
+2025-01-12 23:41:59,512 - INFO - Checking row 30, Column C content: Esomeprazole
+2025-01-12 23:41:59,514 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-12 23:41:59,516 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-12 23:41:59,517 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-12 23:41:59,519 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-12 23:41:59,520 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-12 23:41:59,522 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-12 23:41:59,523 - INFO - Checking row 37, Column C content: Efavirenz
+2025-01-12 23:41:59,525 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-12 23:41:59,527 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-12 23:41:59,529 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-12 23:41:59,530 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-12 23:41:59,532 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-12 23:41:59,533 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-12 23:41:59,535 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-12 23:41:59,537 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-12 23:41:59,538 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-12 23:41:59,540 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-12 23:41:59,542 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-12 23:41:59,543 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-12 23:41:59,545 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-12 23:41:59,546 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-12 23:41:59,548 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-12 23:41:59,549 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-12 23:41:59,551 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-12 23:41:59,552 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-12 23:41:59,554 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-12 23:41:59,556 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-12 23:41:59,557 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-12 23:41:59,558 - INFO - Checking row 59, Column C content: Erdafitinib
+2025-01-12 23:41:59,559 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-12 23:41:59,561 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-12 23:41:59,563 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-12 23:41:59,564 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-12 23:41:59,566 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-12 23:41:59,567 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-12 23:41:59,569 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-12 23:41:59,570 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-12 23:41:59,572 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-12 23:41:59,573 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-12 23:41:59,575 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-12 23:41:59,577 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-12 23:41:59,578 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-12 23:41:59,580 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-12 23:41:59,582 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-12 23:41:59,583 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-12 23:41:59,585 - INFO - Checking row 76, Column C content: Codeine
+2025-01-12 23:41:59,586 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-12 23:41:59,588 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-12 23:41:59,589 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-12 23:41:59,591 - INFO - Checking row 80, Column C content: Methadone
+2025-01-12 23:41:59,593 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-12 23:41:59,594 - INFO - Checking row 82, Column C content: Atomoxetine
+Paroxetine
+Citalopram
+Escitalopram
+2025-01-12 23:41:59,595 - INFO - Found drug atomoxetine in row 82
+2025-01-12 23:41:59,595 - INFO - Removed 'Atomoxetine Paroxetine Citalopram Escitalopram' from column C. Remaining drugs: None
+2025-01-12 23:41:59,595 - INFO - Moved 'Atomoxetine Paroxetine Citalopram Escitalopram' to column E (Dosing Info)
+2025-01-12 23:41:59,596 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-12 23:41:59,598 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-12 23:41:59,600 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-12 23:41:59,601 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-12 23:41:59,603 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-12 23:41:59,605 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-12 23:41:59,606 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-12 23:41:59,608 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-12 23:41:59,610 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-12 23:41:59,611 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-12 23:41:59,613 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-12 23:41:59,615 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-12 23:41:59,617 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-12 23:41:59,618 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-12 23:41:59,619 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-12 23:41:59,621 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-12 23:41:59,622 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-12 23:41:59,624 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-12 23:41:59,626 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-12 23:41:59,627 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-12 23:41:59,629 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-12 23:41:59,631 - INFO - 
+Processing recommendations for drug: citalopram (Actions: {'dosing_info'})
+2025-01-12 23:41:59,632 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:41:59,633 - INFO - Checking row 9, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:41:59,634 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-12 23:41:59,635 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-12 23:41:59,637 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-12 23:41:59,638 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-12 23:41:59,640 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-12 23:41:59,641 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-12 23:41:59,643 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-12 23:41:59,644 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-12 23:41:59,646 - INFO - Checking row 18, Column C content: Fluvastatin
+2025-01-12 23:41:59,648 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-12 23:41:59,649 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-12 23:41:59,651 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-12 23:41:59,652 - INFO - Checking row 22, Column C content: Clopidogrel
+2025-01-12 23:41:59,654 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-12 23:41:59,656 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-12 23:41:59,657 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-12 23:41:59,659 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-12 23:41:59,660 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-12 23:41:59,662 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-12 23:41:59,663 - INFO - Checking row 29, Column C content: Dexlansoprazole         Lansoprazole                            Pantoprazole                Omeprazole
+2025-01-12 23:41:59,665 - INFO - Checking row 30, Column C content: Esomeprazole
+2025-01-12 23:41:59,667 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-12 23:41:59,668 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-12 23:41:59,670 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-12 23:41:59,671 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-12 23:41:59,673 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-12 23:41:59,674 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-12 23:41:59,676 - INFO - Checking row 37, Column C content: Efavirenz
+2025-01-12 23:41:59,677 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-12 23:41:59,679 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-12 23:41:59,680 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-12 23:41:59,682 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-12 23:41:59,683 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-12 23:41:59,685 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-12 23:41:59,687 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-12 23:41:59,689 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-12 23:41:59,690 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-12 23:41:59,692 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-12 23:41:59,693 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-12 23:41:59,695 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-12 23:41:59,696 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-12 23:41:59,698 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-12 23:41:59,699 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-12 23:41:59,701 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-12 23:41:59,703 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-12 23:41:59,705 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-12 23:41:59,706 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-12 23:41:59,708 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-12 23:41:59,708 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-12 23:41:59,709 - INFO - Checking row 59, Column C content: Erdafitinib
+2025-01-12 23:41:59,711 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-12 23:41:59,713 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-12 23:41:59,715 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-12 23:41:59,716 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-12 23:41:59,718 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-12 23:41:59,720 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-12 23:41:59,721 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-12 23:41:59,723 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-12 23:41:59,724 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-12 23:41:59,726 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-12 23:41:59,727 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-12 23:41:59,729 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-12 23:41:59,731 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-12 23:41:59,733 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-12 23:41:59,734 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-12 23:41:59,736 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-12 23:41:59,737 - INFO - Checking row 76, Column C content: Codeine
+2025-01-12 23:41:59,739 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-12 23:41:59,740 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-12 23:41:59,742 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-12 23:41:59,743 - INFO - Checking row 80, Column C content: Methadone
+2025-01-12 23:41:59,745 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-12 23:41:59,748 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-12 23:41:59,749 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-12 23:41:59,751 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-12 23:41:59,752 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-12 23:41:59,754 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-12 23:41:59,756 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-12 23:41:59,758 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-12 23:41:59,759 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-12 23:41:59,761 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-12 23:41:59,762 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-12 23:41:59,764 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-12 23:41:59,766 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-12 23:41:59,768 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-12 23:41:59,769 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-12 23:41:59,771 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-12 23:41:59,773 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-12 23:41:59,774 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-12 23:41:59,776 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-12 23:41:59,777 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-12 23:41:59,779 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-12 23:41:59,781 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-12 23:41:59,782 - INFO - 
+Processing recommendations for drug: clopidogrel (Actions: {'alternate_drug'})
+2025-01-12 23:41:59,783 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:41:59,784 - INFO - Checking row 9, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:41:59,785 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-12 23:41:59,787 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-12 23:41:59,788 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-12 23:41:59,790 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-12 23:41:59,792 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-12 23:41:59,793 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-12 23:41:59,795 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-12 23:41:59,796 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-12 23:41:59,798 - INFO - Checking row 18, Column C content: Fluvastatin
+2025-01-12 23:41:59,799 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-12 23:41:59,801 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-12 23:41:59,803 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-12 23:41:59,804 - INFO - Checking row 22, Column C content: Clopidogrel
+2025-01-12 23:41:59,804 - INFO - Found drug clopidogrel in row 22
+2025-01-12 23:41:59,804 - INFO - Removed 'Clopidogrel' from column C. Remaining drugs: None
+2025-01-12 23:41:59,804 - INFO - Moved 'Clopidogrel' to column F (Alternate Drug)
+2025-01-12 23:41:59,806 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-12 23:41:59,808 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-12 23:41:59,809 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-12 23:41:59,811 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-12 23:41:59,812 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-12 23:41:59,814 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-12 23:41:59,816 - INFO - Checking row 29, Column C content: Dexlansoprazole         Lansoprazole                            Pantoprazole                Omeprazole
+2025-01-12 23:41:59,817 - INFO - Checking row 30, Column C content: Esomeprazole
+2025-01-12 23:41:59,819 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-12 23:41:59,820 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-12 23:41:59,822 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-12 23:41:59,823 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-12 23:41:59,825 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-12 23:41:59,827 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-12 23:41:59,828 - INFO - Checking row 37, Column C content: Efavirenz
+2025-01-12 23:41:59,830 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-12 23:41:59,832 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-12 23:41:59,833 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-12 23:41:59,835 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-12 23:41:59,836 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-12 23:41:59,838 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-12 23:41:59,839 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-12 23:41:59,841 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-12 23:41:59,842 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-12 23:41:59,844 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-12 23:41:59,845 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-12 23:41:59,847 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-12 23:41:59,849 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-12 23:41:59,850 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-12 23:41:59,852 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-12 23:41:59,853 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-12 23:41:59,855 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-12 23:41:59,856 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-12 23:41:59,858 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-12 23:41:59,859 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-12 23:41:59,860 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-12 23:41:59,861 - INFO - Checking row 59, Column C content: Erdafitinib
+2025-01-12 23:41:59,863 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-12 23:41:59,865 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-12 23:41:59,866 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-12 23:41:59,868 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-12 23:41:59,869 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-12 23:41:59,871 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-12 23:41:59,873 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-12 23:41:59,874 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-12 23:41:59,876 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-12 23:41:59,878 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-12 23:41:59,879 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-12 23:41:59,881 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-12 23:41:59,882 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-12 23:41:59,884 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-12 23:41:59,885 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-12 23:41:59,887 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-12 23:41:59,888 - INFO - Checking row 76, Column C content: Codeine
+2025-01-12 23:41:59,890 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-12 23:41:59,892 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-12 23:41:59,893 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-12 23:41:59,895 - INFO - Checking row 80, Column C content: Methadone
+2025-01-12 23:41:59,897 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-12 23:41:59,900 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-12 23:41:59,901 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-12 23:41:59,903 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-12 23:41:59,905 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-12 23:41:59,906 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-12 23:41:59,908 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-12 23:41:59,909 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-12 23:41:59,911 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-12 23:41:59,913 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-12 23:41:59,914 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-12 23:41:59,916 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-12 23:41:59,918 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-12 23:41:59,919 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-12 23:41:59,921 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-12 23:41:59,923 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-12 23:41:59,924 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-12 23:41:59,926 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-12 23:41:59,927 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-12 23:41:59,929 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-12 23:41:59,931 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-12 23:41:59,932 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-12 23:41:59,934 - INFO - 
+Processing recommendations for drug: dexlansoprazole (Actions: {'dosing_info'})
+2025-01-12 23:41:59,935 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:41:59,936 - INFO - Checking row 9, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:41:59,937 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-12 23:41:59,939 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-12 23:41:59,940 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-12 23:41:59,942 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-12 23:41:59,943 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-12 23:41:59,945 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-12 23:41:59,947 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-12 23:41:59,949 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-12 23:41:59,950 - INFO - Checking row 18, Column C content: Fluvastatin
+2025-01-12 23:41:59,951 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-12 23:41:59,953 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-12 23:41:59,954 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-12 23:41:59,957 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-12 23:41:59,959 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-12 23:41:59,960 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-12 23:41:59,962 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-12 23:41:59,964 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-12 23:41:59,965 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-12 23:41:59,967 - INFO - Checking row 29, Column C content: Dexlansoprazole         Lansoprazole                            Pantoprazole                Omeprazole
+2025-01-12 23:41:59,967 - INFO - Found drug dexlansoprazole in row 29
+2025-01-12 23:41:59,967 - INFO - Removed 'Dexlansoprazole' from column C. Remaining drugs: Lansoprazole, Pantoprazole, Omeprazole
+2025-01-12 23:41:59,967 - INFO - Moved 'Dexlansoprazole' to column E (Dosing Info)
+2025-01-12 23:41:59,968 - INFO - Checking row 30, Column C content: Esomeprazole
+2025-01-12 23:41:59,970 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-12 23:41:59,972 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-12 23:41:59,973 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-12 23:41:59,975 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-12 23:41:59,977 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-12 23:41:59,978 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-12 23:41:59,980 - INFO - Checking row 37, Column C content: Efavirenz
+2025-01-12 23:41:59,982 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-12 23:41:59,983 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-12 23:41:59,985 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-12 23:41:59,987 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-12 23:41:59,988 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-12 23:41:59,990 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-12 23:41:59,991 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-12 23:41:59,993 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-12 23:41:59,995 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-12 23:41:59,996 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-12 23:41:59,998 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-12 23:42:00,000 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-12 23:42:00,001 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-12 23:42:00,003 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-12 23:42:00,004 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-12 23:42:00,006 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-12 23:42:00,008 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-12 23:42:00,009 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-12 23:42:00,011 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-12 23:42:00,012 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-12 23:42:00,013 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-12 23:42:00,014 - INFO - Checking row 59, Column C content: Erdafitinib
+2025-01-12 23:42:00,016 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-12 23:42:00,017 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-12 23:42:00,019 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-12 23:42:00,020 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-12 23:42:00,022 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-12 23:42:00,023 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-12 23:42:00,025 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-12 23:42:00,026 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-12 23:42:00,028 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-12 23:42:00,030 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-12 23:42:00,032 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-12 23:42:00,034 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-12 23:42:00,036 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-12 23:42:00,037 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-12 23:42:00,039 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-12 23:42:00,041 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-12 23:42:00,043 - INFO - Checking row 76, Column C content: Codeine
+2025-01-12 23:42:00,044 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-12 23:42:00,047 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-12 23:42:00,049 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-12 23:42:00,051 - INFO - Checking row 80, Column C content: Methadone
+2025-01-12 23:42:00,052 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-12 23:42:00,056 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-12 23:42:00,058 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-12 23:42:00,059 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-12 23:42:00,061 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-12 23:42:00,063 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-12 23:42:00,065 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-12 23:42:00,066 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-12 23:42:00,067 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-12 23:42:00,069 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-12 23:42:00,070 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-12 23:42:00,072 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-12 23:42:00,073 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-12 23:42:00,075 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-12 23:42:00,077 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-12 23:42:00,080 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-12 23:42:00,082 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-12 23:42:00,083 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-12 23:42:00,085 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-12 23:42:00,086 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-12 23:42:00,088 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-12 23:42:00,090 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-12 23:42:00,091 - INFO - 
+Processing recommendations for drug: efavirenz (Actions: {'dosing_info'})
+2025-01-12 23:42:00,092 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,093 - INFO - Checking row 9, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,095 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-12 23:42:00,096 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-12 23:42:00,098 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-12 23:42:00,099 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-12 23:42:00,101 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-12 23:42:00,102 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-12 23:42:00,104 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-12 23:42:00,106 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-12 23:42:00,107 - INFO - Checking row 18, Column C content: Fluvastatin
+2025-01-12 23:42:00,109 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-12 23:42:00,111 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-12 23:42:00,114 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-12 23:42:00,117 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-12 23:42:00,119 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-12 23:42:00,120 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-12 23:42:00,122 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-12 23:42:00,123 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-12 23:42:00,125 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-12 23:42:00,127 - INFO - Checking row 29, Column C content: Lansoprazole
+Pantoprazole
+Omeprazole
+2025-01-12 23:42:00,128 - INFO - Checking row 30, Column C content: Esomeprazole
+2025-01-12 23:42:00,131 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-12 23:42:00,132 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-12 23:42:00,134 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-12 23:42:00,136 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-12 23:42:00,138 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-12 23:42:00,139 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-12 23:42:00,141 - INFO - Checking row 37, Column C content: Efavirenz
+2025-01-12 23:42:00,141 - INFO - Found drug efavirenz in row 37
+2025-01-12 23:42:00,142 - INFO - Unmerged cells in range F36:F37
+2025-01-12 23:42:00,142 - INFO - Unmerged cells in range E36:E37
+2025-01-12 23:42:00,142 - INFO - Removed 'Efavirenz' from column C. Remaining drugs: None
+2025-01-12 23:42:00,142 - INFO - Moved 'Efavirenz' to column E (Dosing Info)
+2025-01-12 23:42:00,143 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-12 23:42:00,145 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-12 23:42:00,147 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-12 23:42:00,149 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-12 23:42:00,150 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-12 23:42:00,151 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-12 23:42:00,153 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-12 23:42:00,154 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-12 23:42:00,156 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-12 23:42:00,157 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-12 23:42:00,159 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-12 23:42:00,161 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-12 23:42:00,162 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-12 23:42:00,164 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-12 23:42:00,166 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-12 23:42:00,167 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-12 23:42:00,168 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-12 23:42:00,170 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-12 23:42:00,172 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-12 23:42:00,173 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-12 23:42:00,174 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-12 23:42:00,175 - INFO - Checking row 59, Column C content: Erdafitinib
+2025-01-12 23:42:00,176 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-12 23:42:00,178 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-12 23:42:00,180 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-12 23:42:00,182 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-12 23:42:00,183 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-12 23:42:00,185 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-12 23:42:00,186 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-12 23:42:00,188 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-12 23:42:00,189 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-12 23:42:00,191 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-12 23:42:00,192 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-12 23:42:00,194 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-12 23:42:00,196 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-12 23:42:00,197 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-12 23:42:00,199 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-12 23:42:00,201 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-12 23:42:00,202 - INFO - Checking row 76, Column C content: Codeine
+2025-01-12 23:42:00,204 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-12 23:42:00,205 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-12 23:42:00,207 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-12 23:42:00,209 - INFO - Checking row 80, Column C content: Methadone
+2025-01-12 23:42:00,210 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-12 23:42:00,214 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-12 23:42:00,215 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-12 23:42:00,217 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-12 23:42:00,219 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-12 23:42:00,220 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-12 23:42:00,222 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-12 23:42:00,223 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-12 23:42:00,225 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-12 23:42:00,227 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-12 23:42:00,228 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-12 23:42:00,230 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-12 23:42:00,232 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-12 23:42:00,233 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-12 23:42:00,234 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-12 23:42:00,236 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-12 23:42:00,237 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-12 23:42:00,239 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-12 23:42:00,241 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-12 23:42:00,242 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-12 23:42:00,244 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-12 23:42:00,246 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-12 23:42:00,248 - INFO - 
+Processing recommendations for drug: escitalopram (Actions: {'dosing_info'})
+2025-01-12 23:42:00,248 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,249 - INFO - Checking row 9, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,251 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-12 23:42:00,253 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-12 23:42:00,254 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-12 23:42:00,256 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-12 23:42:00,257 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-12 23:42:00,259 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-12 23:42:00,260 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-12 23:42:00,262 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-12 23:42:00,264 - INFO - Checking row 18, Column C content: Fluvastatin
+2025-01-12 23:42:00,266 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-12 23:42:00,268 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-12 23:42:00,269 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-12 23:42:00,272 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-12 23:42:00,274 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-12 23:42:00,276 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-12 23:42:00,277 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-12 23:42:00,279 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-12 23:42:00,281 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-12 23:42:00,282 - INFO - Checking row 29, Column C content: Lansoprazole
+Pantoprazole
+Omeprazole
+2025-01-12 23:42:00,284 - INFO - Checking row 30, Column C content: Esomeprazole
+2025-01-12 23:42:00,285 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-12 23:42:00,287 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-12 23:42:00,288 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-12 23:42:00,290 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-12 23:42:00,291 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-12 23:42:00,293 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-12 23:42:00,296 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-12 23:42:00,298 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-12 23:42:00,299 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-12 23:42:00,301 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-12 23:42:00,302 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-12 23:42:00,304 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-12 23:42:00,306 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-12 23:42:00,307 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-12 23:42:00,309 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-12 23:42:00,310 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-12 23:42:00,312 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-12 23:42:00,314 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-12 23:42:00,315 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-12 23:42:00,317 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-12 23:42:00,319 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-12 23:42:00,320 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-12 23:42:00,322 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-12 23:42:00,323 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-12 23:42:00,325 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-12 23:42:00,327 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-12 23:42:00,328 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-12 23:42:00,329 - INFO - Checking row 59, Column C content: Erdafitinib
+2025-01-12 23:42:00,331 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-12 23:42:00,332 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-12 23:42:00,334 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-12 23:42:00,335 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-12 23:42:00,337 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-12 23:42:00,339 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-12 23:42:00,340 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-12 23:42:00,342 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-12 23:42:00,343 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-12 23:42:00,345 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-12 23:42:00,347 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-12 23:42:00,348 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-12 23:42:00,350 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-12 23:42:00,351 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-12 23:42:00,353 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-12 23:42:00,354 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-12 23:42:00,356 - INFO - Checking row 76, Column C content: Codeine
+2025-01-12 23:42:00,357 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-12 23:42:00,359 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-12 23:42:00,361 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-12 23:42:00,362 - INFO - Checking row 80, Column C content: Methadone
+2025-01-12 23:42:00,364 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-12 23:42:00,367 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-12 23:42:00,369 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-12 23:42:00,370 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-12 23:42:00,372 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-12 23:42:00,374 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-12 23:42:00,375 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-12 23:42:00,377 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-12 23:42:00,379 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-12 23:42:00,381 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-12 23:42:00,382 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-12 23:42:00,384 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-12 23:42:00,386 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-12 23:42:00,387 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-12 23:42:00,389 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-12 23:42:00,391 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-12 23:42:00,392 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-12 23:42:00,394 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-12 23:42:00,396 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-12 23:42:00,397 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-12 23:42:00,399 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-12 23:42:00,401 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-12 23:42:00,402 - INFO - 
+Processing recommendations for drug: fluvastatin (Actions: {'dosing_info', 'alternate_drug'})
+2025-01-12 23:42:00,403 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,404 - INFO - Checking row 9, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,405 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-12 23:42:00,407 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-12 23:42:00,408 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-12 23:42:00,410 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-12 23:42:00,411 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-12 23:42:00,413 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-12 23:42:00,415 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-12 23:42:00,416 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-12 23:42:00,418 - INFO - Checking row 18, Column C content: Fluvastatin
+2025-01-12 23:42:00,418 - INFO - Found drug fluvastatin in row 18
+2025-01-12 23:42:00,418 - INFO - Unmerged cells in range F16:F21
+2025-01-12 23:42:00,418 - INFO - Unmerged cells in range E16:E21
+2025-01-12 23:42:00,418 - INFO - Removed 'Fluvastatin' from column C. Remaining drugs: None
+2025-01-12 23:42:00,418 - INFO - Moved 'Fluvastatin' to column E (Dosing Info)
+2025-01-12 23:42:00,418 - INFO - Moved 'Fluvastatin' to column F (Alternate Drug)
+2025-01-12 23:42:00,420 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-12 23:42:00,421 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-12 23:42:00,423 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-12 23:42:00,426 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-12 23:42:00,427 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-12 23:42:00,429 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-12 23:42:00,430 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-12 23:42:00,432 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-12 23:42:00,434 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-12 23:42:00,435 - INFO - Checking row 29, Column C content: Lansoprazole
+Pantoprazole
+Omeprazole
+2025-01-12 23:42:00,437 - INFO - Checking row 30, Column C content: Esomeprazole
+2025-01-12 23:42:00,439 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-12 23:42:00,440 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-12 23:42:00,442 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-12 23:42:00,443 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-12 23:42:00,445 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-12 23:42:00,447 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-12 23:42:00,450 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-12 23:42:00,451 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-12 23:42:00,453 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-12 23:42:00,454 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-12 23:42:00,456 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-12 23:42:00,458 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-12 23:42:00,459 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-12 23:42:00,461 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-12 23:42:00,463 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-12 23:42:00,464 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-12 23:42:00,466 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-12 23:42:00,468 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-12 23:42:00,469 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-12 23:42:00,471 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-12 23:42:00,473 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-12 23:42:00,475 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-12 23:42:00,476 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-12 23:42:00,478 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-12 23:42:00,480 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-12 23:42:00,482 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-12 23:42:00,483 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-12 23:42:00,484 - INFO - Checking row 59, Column C content: Erdafitinib
+2025-01-12 23:42:00,485 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-12 23:42:00,487 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-12 23:42:00,489 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-12 23:42:00,490 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-12 23:42:00,492 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-12 23:42:00,493 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-12 23:42:00,495 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-12 23:42:00,497 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-12 23:42:00,499 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-12 23:42:00,500 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-12 23:42:00,502 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-12 23:42:00,504 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-12 23:42:00,505 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-12 23:42:00,507 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-12 23:42:00,508 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-12 23:42:00,510 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-12 23:42:00,512 - INFO - Checking row 76, Column C content: Codeine
+2025-01-12 23:42:00,514 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-12 23:42:00,516 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-12 23:42:00,517 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-12 23:42:00,519 - INFO - Checking row 80, Column C content: Methadone
+2025-01-12 23:42:00,521 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-12 23:42:00,524 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-12 23:42:00,526 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-12 23:42:00,528 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-12 23:42:00,530 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-12 23:42:00,532 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-12 23:42:00,533 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-12 23:42:00,535 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-12 23:42:00,537 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-12 23:42:00,539 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-12 23:42:00,540 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-12 23:42:00,542 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-12 23:42:00,544 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-12 23:42:00,545 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-12 23:42:00,547 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-12 23:42:00,549 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-12 23:42:00,551 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-12 23:42:00,552 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-12 23:42:00,554 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-12 23:42:00,556 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-12 23:42:00,557 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-12 23:42:00,559 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-12 23:42:00,561 - INFO - 
+Processing recommendations for drug: lansoprazole (Actions: {'dosing_info'})
+2025-01-12 23:42:00,562 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,563 - INFO - Checking row 9, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,565 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-12 23:42:00,566 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-12 23:42:00,568 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-12 23:42:00,570 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-12 23:42:00,571 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-12 23:42:00,573 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-12 23:42:00,575 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-12 23:42:00,577 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-12 23:42:00,581 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-12 23:42:00,582 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-12 23:42:00,584 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-12 23:42:00,587 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-12 23:42:00,588 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-12 23:42:00,590 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-12 23:42:00,592 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-12 23:42:00,593 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-12 23:42:00,595 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-12 23:42:00,598 - INFO - Checking row 29, Column C content: Lansoprazole
+Pantoprazole
+Omeprazole
+2025-01-12 23:42:00,598 - INFO - Found drug lansoprazole in row 29
+2025-01-12 23:42:00,598 - INFO - Removed 'Lansoprazole Pantoprazole Omeprazole' from column C. Remaining drugs: None
+2025-01-12 23:42:00,598 - INFO - Moved 'Lansoprazole Pantoprazole Omeprazole' to column E (Dosing Info)
+2025-01-12 23:42:00,600 - INFO - Checking row 30, Column C content: Esomeprazole
+2025-01-12 23:42:00,601 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-12 23:42:00,603 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-12 23:42:00,605 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-12 23:42:00,607 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-12 23:42:00,608 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-12 23:42:00,610 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-12 23:42:00,614 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-12 23:42:00,616 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-12 23:42:00,617 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-12 23:42:00,619 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-12 23:42:00,621 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-12 23:42:00,622 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-12 23:42:00,624 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-12 23:42:00,625 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-12 23:42:00,627 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-12 23:42:00,629 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-12 23:42:00,631 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-12 23:42:00,633 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-12 23:42:00,635 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-12 23:42:00,636 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-12 23:42:00,638 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-12 23:42:00,640 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-12 23:42:00,641 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-12 23:42:00,643 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-12 23:42:00,645 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-12 23:42:00,647 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-12 23:42:00,648 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-12 23:42:00,648 - INFO - Checking row 59, Column C content: Erdafitinib
+2025-01-12 23:42:00,650 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-12 23:42:00,651 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-12 23:42:00,653 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-12 23:42:00,654 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-12 23:42:00,656 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-12 23:42:00,657 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-12 23:42:00,659 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-12 23:42:00,660 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-12 23:42:00,662 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-12 23:42:00,664 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-12 23:42:00,665 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-12 23:42:00,667 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-12 23:42:00,668 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-12 23:42:00,670 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-12 23:42:00,671 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-12 23:42:00,673 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-12 23:42:00,674 - INFO - Checking row 76, Column C content: Codeine
+2025-01-12 23:42:00,676 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-12 23:42:00,678 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-12 23:42:00,680 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-12 23:42:00,682 - INFO - Checking row 80, Column C content: Methadone
+2025-01-12 23:42:00,683 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-12 23:42:00,687 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-12 23:42:00,688 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-12 23:42:00,690 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-12 23:42:00,692 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-12 23:42:00,693 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-12 23:42:00,695 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-12 23:42:00,697 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-12 23:42:00,698 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-12 23:42:00,699 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-12 23:42:00,701 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-12 23:42:00,703 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-12 23:42:00,704 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-12 23:42:00,706 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-12 23:42:00,707 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-12 23:42:00,709 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-12 23:42:00,711 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-12 23:42:00,713 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-12 23:42:00,715 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-12 23:42:00,716 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-12 23:42:00,718 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-12 23:42:00,720 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-12 23:42:00,721 - INFO - 
+Processing recommendations for drug: omeprazole (Actions: {'dosing_info'})
+2025-01-12 23:42:00,722 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,723 - INFO - Checking row 9, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,724 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-12 23:42:00,726 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-12 23:42:00,728 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-12 23:42:00,729 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-12 23:42:00,731 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-12 23:42:00,732 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-12 23:42:00,734 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-12 23:42:00,735 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-12 23:42:00,739 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-12 23:42:00,740 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-12 23:42:00,742 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-12 23:42:00,745 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-12 23:42:00,747 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-12 23:42:00,748 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-12 23:42:00,749 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-12 23:42:00,751 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-12 23:42:00,752 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-12 23:42:00,755 - INFO - Checking row 30, Column C content: Esomeprazole
+2025-01-12 23:42:00,755 - INFO - Found drug omeprazole in row 30
+2025-01-12 23:42:00,755 - INFO - Removed 'Esomeprazole' from column C. Remaining drugs: None
+2025-01-12 23:42:00,755 - INFO - Moved 'Esomeprazole' to column E (Dosing Info)
+2025-01-12 23:42:00,757 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-12 23:42:00,759 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-12 23:42:00,760 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-12 23:42:00,763 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-12 23:42:00,764 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-12 23:42:00,766 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-12 23:42:00,769 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-12 23:42:00,770 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-12 23:42:00,772 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-12 23:42:00,773 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-12 23:42:00,775 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-12 23:42:00,776 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-12 23:42:00,778 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-12 23:42:00,780 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-12 23:42:00,781 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-12 23:42:00,783 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-12 23:42:00,784 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-12 23:42:00,786 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-12 23:42:00,787 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-12 23:42:00,789 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-12 23:42:00,790 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-12 23:42:00,792 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-12 23:42:00,794 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-12 23:42:00,796 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-12 23:42:00,797 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-12 23:42:00,799 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-12 23:42:00,799 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-12 23:42:00,800 - INFO - Checking row 59, Column C content: Erdafitinib
+2025-01-12 23:42:00,802 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-12 23:42:00,804 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-12 23:42:00,805 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-12 23:42:00,807 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-12 23:42:00,809 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-12 23:42:00,810 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-12 23:42:00,812 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-12 23:42:00,814 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-12 23:42:00,815 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-12 23:42:00,817 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-12 23:42:00,818 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-12 23:42:00,820 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-12 23:42:00,822 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-12 23:42:00,823 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-12 23:42:00,825 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-12 23:42:00,826 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-12 23:42:00,828 - INFO - Checking row 76, Column C content: Codeine
+2025-01-12 23:42:00,830 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-12 23:42:00,831 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-12 23:42:00,833 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-12 23:42:00,834 - INFO - Checking row 80, Column C content: Methadone
+2025-01-12 23:42:00,836 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-12 23:42:00,839 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-12 23:42:00,840 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-12 23:42:00,842 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-12 23:42:00,844 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-12 23:42:00,845 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-12 23:42:00,847 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-12 23:42:00,848 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-12 23:42:00,850 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-12 23:42:00,851 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-12 23:42:00,853 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-12 23:42:00,854 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-12 23:42:00,856 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-12 23:42:00,857 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-12 23:42:00,859 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-12 23:42:00,861 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-12 23:42:00,864 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-12 23:42:00,866 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-12 23:42:00,868 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-12 23:42:00,870 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-12 23:42:00,872 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-12 23:42:00,875 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-12 23:42:00,877 - INFO - 
+Processing recommendations for drug: pantoprazole (Actions: {'dosing_info'})
+2025-01-12 23:42:00,878 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,879 - INFO - Checking row 9, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:00,881 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-12 23:42:00,882 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-12 23:42:00,884 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-12 23:42:00,886 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-12 23:42:00,887 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-12 23:42:00,889 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-12 23:42:00,890 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-12 23:42:00,892 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-12 23:42:00,896 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-12 23:42:00,897 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-12 23:42:00,899 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-12 23:42:00,902 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-12 23:42:00,904 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-12 23:42:00,906 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-12 23:42:00,907 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-12 23:42:00,909 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-12 23:42:00,911 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-12 23:42:00,916 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-12 23:42:00,918 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-12 23:42:00,919 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-12 23:42:00,921 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-12 23:42:00,923 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-12 23:42:00,925 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-12 23:42:00,928 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-12 23:42:00,930 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-12 23:42:00,932 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-12 23:42:00,934 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-12 23:42:00,935 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-12 23:42:00,937 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-12 23:42:00,939 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-12 23:42:00,940 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-12 23:42:00,942 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-12 23:42:00,944 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-12 23:42:00,946 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-12 23:42:00,948 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-12 23:42:00,950 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-12 23:42:00,952 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-12 23:42:00,953 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-12 23:42:00,955 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-12 23:42:00,957 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-12 23:42:00,958 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-12 23:42:00,960 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-12 23:42:00,962 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-12 23:42:00,963 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-12 23:42:00,964 - INFO - Checking row 59, Column C content: Erdafitinib
+2025-01-12 23:42:00,966 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-12 23:42:00,967 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-12 23:42:00,968 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-12 23:42:00,970 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-12 23:42:00,971 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-12 23:42:00,973 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-12 23:42:00,975 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-12 23:42:00,977 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-12 23:42:00,980 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-12 23:42:00,982 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-12 23:42:00,985 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-12 23:42:00,987 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-12 23:42:00,990 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-12 23:42:00,993 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-12 23:42:00,995 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-12 23:42:00,998 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-12 23:42:01,000 - INFO - Checking row 76, Column C content: Codeine
+2025-01-12 23:42:01,002 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-12 23:42:01,003 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-12 23:42:01,004 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-12 23:42:01,006 - INFO - Checking row 80, Column C content: Methadone
+2025-01-12 23:42:01,007 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-12 23:42:01,010 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-12 23:42:01,012 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-12 23:42:01,013 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-12 23:42:01,014 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-12 23:42:01,016 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-12 23:42:01,017 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-12 23:42:01,019 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-12 23:42:01,020 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-12 23:42:01,021 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-12 23:42:01,023 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-12 23:42:01,024 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-12 23:42:01,026 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-12 23:42:01,027 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-12 23:42:01,028 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-12 23:42:01,030 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-12 23:42:01,031 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-12 23:42:01,033 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-12 23:42:01,034 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-12 23:42:01,036 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-12 23:42:01,037 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-12 23:42:01,039 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-12 23:42:01,040 - INFO - 
+Processing recommendations for drug: sertraline (Actions: {'dosing_info'})
+2025-01-12 23:42:01,041 - INFO - Checking row 8, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:01,042 - INFO - Checking row 9, Column C content: STANDARD PRECAUTIONS
+2025-01-12 23:42:01,043 - INFO - Checking row 10, Column C content: Succinylcholine
+2025-01-12 23:42:01,045 - INFO - Checking row 11, Column C content: Desflurane
+2025-01-12 23:42:01,046 - INFO - Checking row 12, Column C content: Enflurane
+2025-01-12 23:42:01,048 - INFO - Checking row 13, Column C content: Sevoflurane
+2025-01-12 23:42:01,049 - INFO - Checking row 14, Column C content: Isoflurane
+2025-01-12 23:42:01,051 - INFO - Checking row 15, Column C content: Methoxyflurane        Halothane
+2025-01-12 23:42:01,052 - INFO - Checking row 16, Column C content: Rosuvastatin
+2025-01-12 23:42:01,054 - INFO - Checking row 17, Column C content: Atorvastatin
+2025-01-12 23:42:01,056 - INFO - Checking row 19, Column C content: Lovastatin
+2025-01-12 23:42:01,058 - INFO - Checking row 20, Column C content: Pitavastatin
+2025-01-12 23:42:01,059 - INFO - Checking row 21, Column C content: Simvastatin
+2025-01-12 23:42:01,062 - INFO - Checking row 23, Column C content: Nebivolol                         Metoprolol
+2025-01-12 23:42:01,064 - INFO - Checking row 24, Column C content: Propafenone             Flecainide
+2025-01-12 23:42:01,066 - INFO - Checking row 25, Column C content: Warfarin
+2025-01-12 23:42:01,067 - INFO - Checking row 26, Column C content: Cevimeline
+2025-01-12 23:42:01,069 - INFO - Checking row 27, Column C content: Glyburide
+2025-01-12 23:42:01,070 - INFO - Checking row 28, Column C content: Tolbutamide
+2025-01-12 23:42:01,074 - INFO - Checking row 31, Column C content: Rabeprazole
+2025-01-12 23:42:01,076 - INFO - Checking row 32, Column C content: Eliglustat
+2025-01-12 23:42:01,077 - INFO - Checking row 33, Column C content: Ivacaftor
+2025-01-12 23:42:01,079 - INFO - Checking row 34, Column C content: Meclizine
+2025-01-12 23:42:01,081 - INFO - Checking row 35, Column C content: Azathioprine                 Siponimod                Tacrolimus
+2025-01-12 23:42:01,082 - INFO - Checking row 36, Column C content: Abacavir
+2025-01-12 23:42:01,085 - INFO - Checking row 38, Column C content: Peginterferon alfa 2a/2b 
+Ribavarin
+2025-01-12 23:42:01,086 - INFO - Checking row 39, Column C content: Chloramphenicol
+Ciprofloxacin
+Dapsone
+Doxorubicin
+Furazolidone
+Mafenide
+Norfloxacin
+Ofloxacin
+Phenazopyridine
+Sulfadiazine
+Sulfadimidine
+Sulfamethoxazole 
+ Trimethoprim
+Sulfanilamide
+Sulfisoxazole
+2025-01-12 23:42:01,088 - INFO - Checking row 40, Column C content: Ribavirin
+2025-01-12 23:42:01,089 - INFO - Checking row 41, Column C content: Voriconazole
+2025-01-12 23:42:01,090 - INFO - Checking row 42, Column C content: Dimercaprol
+Methylene blue
+2025-01-12 23:42:01,092 - INFO - Checking row 43, Column C content: Atazanavir
+2025-01-12 23:42:01,093 - INFO - Checking row 44, Column C content: Aminosalicylic acid
+2025-01-12 23:42:01,095 - INFO - Checking row 45, Column C content: Chloroquine
+Hydroxychloroquine
+Primaquine
+Quinine
+Tafenoquine
+2025-01-12 23:42:01,096 - INFO - Checking row 46, Column C content: Phenytoin
+2025-01-12 23:42:01,098 - INFO - Checking row 47, Column C content: Fosphentoyin
+2025-01-12 23:42:01,099 - INFO - Checking row 48, Column C content: Tetrabenazine
+Amifampridine Amifampridine
+ phosphate 
+Deutetrabenazine
+2025-01-12 23:42:01,101 - INFO - Checking row 49, Column C content: Diazepam
+2025-01-12 23:42:01,102 - INFO - Checking row 50, Column C content: Clobazam
+2025-01-12 23:42:01,104 - INFO - Checking row 51, Column C content: Fesoterodine
+2025-01-12 23:42:01,105 - INFO - Checking row 52, Column C content: Donepezil
+2025-01-12 23:42:01,106 - INFO - Checking row 53, Column C content: Tolterodine
+2025-01-12 23:42:01,108 - INFO - Checking row 54, Column C content: Tamoxifen
+2025-01-12 23:42:01,109 - INFO - Checking row 55, Column C content: Dronabinol
+2025-01-12 23:42:01,111 - INFO - Checking row 56, Column C content: Tropisetron
+2025-01-12 23:42:01,113 - INFO - Checking row 57, Column C content: Ondansetron
+2025-01-12 23:42:01,114 - INFO - Checking row 58, Column C content: Erdafitinib
+2025-01-12 23:42:01,115 - INFO - Checking row 59, Column C content: Erdafitinib
+2025-01-12 23:42:01,116 - INFO - Checking row 60, Column C content: Fluorouracil
+2025-01-12 23:42:01,118 - INFO - Checking row 61, Column C content: Capecitabine
+2025-01-12 23:42:01,119 - INFO - Checking row 62, Column C content: Mercaptopurine
+2025-01-12 23:42:01,120 - INFO - Checking row 63, Column C content: Thioguanine
+2025-01-12 23:42:01,122 - INFO - Checking row 64, Column C content: Rasburicase
+2025-01-12 23:42:01,123 - INFO - Checking row 65, Column C content: Irinotecan
+2025-01-12 23:42:01,125 - INFO - Checking row 66, Column C content: Carisoprodol
+2025-01-12 23:42:01,126 - INFO - Checking row 67, Column C content: Aspirin                          Celecoxib
+2025-01-12 23:42:01,128 - INFO - Checking row 68, Column C content: Flurbiprofen
+2025-01-12 23:42:01,129 - INFO - Checking row 69, Column C content: Lornoxicam
+2025-01-12 23:42:01,131 - INFO - Checking row 70, Column C content: Ibuprofen
+2025-01-12 23:42:01,132 - INFO - Checking row 71, Column C content: Meloxicam
+2025-01-12 23:42:01,134 - INFO - Checking row 72, Column C content: Piroxicam
+2025-01-12 23:42:01,136 - INFO - Checking row 73, Column C content: Diclofenac
+2025-01-12 23:42:01,137 - INFO - Checking row 74, Column C content: Tenoxicam
+2025-01-12 23:42:01,139 - INFO - Checking row 75, Column C content: Acetaminophen
+2025-01-12 23:42:01,140 - INFO - Checking row 76, Column C content: Codeine
+2025-01-12 23:42:01,142 - INFO - Checking row 77, Column C content: Dihydrocodeine
+2025-01-12 23:42:01,144 - INFO - Checking row 78, Column C content: Hydrocodone
+2025-01-12 23:42:01,145 - INFO - Checking row 79, Column C content: Oxycodone
+2025-01-12 23:42:01,147 - INFO - Checking row 80, Column C content: Methadone
+2025-01-12 23:42:01,149 - INFO - Checking row 81, Column C content: Tramadol
+2025-01-12 23:42:01,152 - INFO - Checking row 83, Column C content: Sertraline
+2025-01-12 23:42:01,152 - INFO - Found drug sertraline in row 83
+2025-01-12 23:42:01,152 - INFO - Removed 'Sertraline' from column C. Remaining drugs: None
+2025-01-12 23:42:01,152 - INFO - Moved 'Sertraline' to column E (Dosing Info)
+2025-01-12 23:42:01,153 - INFO - Checking row 84, Column C content: Fluvoxamine
+2025-01-12 23:42:01,155 - INFO - Checking row 85, Column C content: Venlafaxine
+2025-01-12 23:42:01,156 - INFO - Checking row 86, Column C content: Desipramine
+Nortriptyline
+Amitriptyline 
+Clomipramine
+Doxepin
+Imipramine
+Trimipramine
+2025-01-12 23:42:01,158 - INFO - Checking row 87, Column C content: Brexpiprazole
+2025-01-12 23:42:01,159 - INFO - Checking row 88, Column C content: Quetiapine
+2025-01-12 23:42:01,161 - INFO - Checking row 89, Column C content: Risperidone
+2025-01-12 23:42:01,163 - INFO - Checking row 90, Column C content: Lofexidine
+2025-01-12 23:42:01,164 - INFO - Checking row 91, Column C content: Pimozide
+2025-01-12 23:42:01,166 - INFO - Checking row 92, Column C content: Allopurinol
+2025-01-12 23:42:01,168 - INFO - Checking row 93, Column C content: Sulfasalazine
+2025-01-12 23:42:01,169 - INFO - Checking row 94, Column C content: Vitamin C 
+2025-01-12 23:42:01,171 - INFO - Checking row 95, Column C content: Vitamin K
+2025-01-12 23:42:01,172 - INFO - Checking row 96, Column C content: Azathioprine
+2025-01-12 23:42:01,174 - INFO - Checking row 97, Column C content: Tacrolimus
+2025-01-12 23:42:01,176 - INFO - Checking row 98, Column C content: Contraceptive with oestrogens
+2025-01-12 23:42:01,177 - INFO - Checking row 99, Column C content: Mirabegron
+2025-01-12 23:42:01,179 - INFO - Checking row 100, Column C content: Fesoterodine
+2025-01-12 23:42:01,180 - INFO - Checking row 101, Column C content: Pegloticase
+2025-01-12 23:42:01,182 - INFO - Checking row 102, Column C content: Tamsulosin
+2025-01-12 23:42:01,184 - INFO - Checking row 103, Column C content: Nalidixic acid
+Nitrofurantoin
+2025-01-12 23:42:01,216 - INFO - Saved changes to test_output/processed_files/N1DL5740.xlsx
